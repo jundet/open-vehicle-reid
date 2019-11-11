@@ -1,0 +1,7 @@
+<div class="modal-header">
+  <div class="modal-title">模型 {{ modelName }} 测试详情</div>
+</div>
+  <st [bordered]="true" [data]="testData" [columns]="testColumns" [scroll]="{x: '650px', y: '300px'}" [page]="testPage" [loading]="loading"></st>
+<div class="modal-footer">
+  <button nz-button type="button" (click)="close()">确定</button>
+</div>

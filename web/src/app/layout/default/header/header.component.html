@@ -1,0 +1,36 @@
+<div class="alain-default__header-logo">
+  <a [routerLink]="['/']" class="alain-default__header-logo-link">
+    <img class="alain-default__header-logo-expanded" src="./assets/logowl.png"  style="max-height:40px;" />
+    <img class="alain-default__header-logo-collapsed" src="./assets/logow.png" style="max-height:30px;" />
+  </a>
+</div>
+<div class="alain-default__nav-wrap">
+  <ul class="alain-default__nav">
+    <!-- Menu -->
+    <li>
+      <div class="alain-default__nav-item" (click)="toggleCollapsedSidebar()">
+        <i nz-icon type="menu-{{settings.layout.collapsed ? 'unfold' : 'fold'}}"></i>
+      </div>
+    </li>
+       <!-- App Icons -->
+    <!-- <li>
+      <header-icon></header-icon>
+    </li> -->
+    <!-- Search Button -->
+    <li class="hidden-pc" (click)="searchToggleChange()">
+      <div class="alain-default__nav-item">
+        <i nz-icon type="search"></i>
+      </div>
+    </li>
+  </ul>
+  <header-search class="alain-default__search" [toggleChange]="searchToggleStatus"></header-search>
+  <ul class="alain-default__nav">
+    <!-- Notify -->
+    <!-- <li>
+      <header-notify></header-notify>
+    </li> -->
+    <li>
+      <header-user></header-user>
+    </li>
+  </ul>
+</div>

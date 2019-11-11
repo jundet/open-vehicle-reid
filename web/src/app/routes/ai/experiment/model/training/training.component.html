@@ -1,0 +1,33 @@
+<div class="modal-header">
+  <div class="modal-title">模型 {{ modelName }} 训练详情</div>
+</div>
+<nz-tabset>
+  <nz-tab nzTitle="G2">
+    <div>
+      <p>Creat by G2</p>
+      <v-chart [forceFit]="forceFit" [height]="height" [data]="data" [scale]="scale">
+        <v-tooltip></v-tooltip>
+        <v-axis></v-axis>
+        <v-legend></v-legend>
+        <v-smooth-line position="epoch*loss"></v-smooth-line>
+        <v-point position="epoch*loss" shape="circle"></v-point>
+      </v-chart>
+    </div>
+  </nz-tab>
+  <nz-tab nzTitle="ECharts">
+    <div>
+      <p>Creat by ECharts</p>
+      <div echarts [options]="option" [autoResize]=true style="width: 100%; height: 400px;"></div>
+    </div>
+  </nz-tab>
+  <nz-tab nzTitle="table">
+    <div>
+      <st [bordered]="true" [data]="trainData" [columns]="trainColumns" [scroll]="{x: '650px', y: '350px'}" [page]="trainPage"
+        [loading]="loading">
+      </st>
+    </div>
+  </nz-tab>
+</nz-tabset>
+<div class="modal-footer">
+  <button nz-button type="button" (click)="close()">确定</button>
+</div>

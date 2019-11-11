@@ -1,0 +1,62 @@
+<page-header [title]="'卷积池化计算'"></page-header>
+<nz-card>
+  <form role="form" nz-form [nzLayout]="'inline'" class="search__form">
+    <nz-row [nzGutter]="{ md: 8, lg: 24, xl: 48 }">
+      <nz-col nzMd="24" nzSm="24">
+        <nz-form-item>
+          <nz-form-label nzFor="no">D_in,H_in,W_in</nz-form-label>
+          <nz-form-control>
+            <input nz-input [(ngModel)]="inputvalue" placeholder="支持2d与3d，2d时输入H_in,W_in，例如128,64；3d时输入D_in,H_in,W_in"
+              name="inputvalue">
+          </nz-form-control>
+        </nz-form-item>
+      </nz-col>
+      <nz-col nzMd="24" nzSm="24">
+        <nz-form-item>
+          <nz-form-label nzFor="no">padding</nz-form-label>
+          <nz-form-control>
+            <input nz-input [(ngModel)]="padding" placeholder="输入全部或单个数值例如1,1,1或者仅输入1，下同"
+              name="padding">
+          </nz-form-control>
+        </nz-form-item>
+      </nz-col>
+      <nz-col nzMd="24" nzSm="24">
+        <nz-form-item>
+          <nz-form-label nzFor="no">dilation</nz-form-label>
+          <nz-form-control>
+            <input nz-input [(ngModel)]="dilation"
+              name="dilation">
+          </nz-form-control>
+        </nz-form-item>
+      </nz-col>
+      <nz-col nzMd="24" nzSm="24">
+        <nz-form-item>
+          <nz-form-label nzFor="no">kernelSize</nz-form-label>
+          <nz-form-control>
+            <input nz-input [(ngModel)]="kernelSize"
+              name="kernelSize">
+          </nz-form-control>
+        </nz-form-item>
+      </nz-col>
+      <nz-col nzMd="24" nzSm="24">
+        <nz-form-item>
+          <nz-form-label nzFor="no">stride</nz-form-label>
+          <nz-form-control>
+            <input nz-input [(ngModel)]="stride"
+              name="stride">
+          </nz-form-control>
+        </nz-form-item>
+      </nz-col>
+      <nz-col nzMd="24" nzSm="24">
+          <h3>D_out:{{DOut}}</h3>
+          <h3>H_out:{{HOut}}</h3>
+          <h3>W_out:{{WOut}}</h3>
+      </nz-col>
+      <nz-col>
+        <button nz-button type="submit" (click)="compute()">计算</button>
+        <button nz-button type="submit" (click)="next()">继续</button>
+        <button nz-button type="reset" (click)="reset()">重置</button>
+      </nz-col>
+    </nz-row>
+  </form>
+</nz-card>
