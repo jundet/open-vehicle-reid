@@ -1,0 +1,3000 @@
+20342/209530;101;Volkswagen;sedan;dark gray
+15653/161498;106;BAIC Weiwang;business purpose vehicle/MPV;white
+27650/284390;61;Venucia;sedan;white
+12984/134217;139;Wuling;minivan;gray
+21626/223028;94;pickup truck;pickup truck;black
+18481/190756;15;Cheryl;sedan;black
+31289/321136;61;Volkswagen;sedan;black
+36896/377221;122;Peugeot;sedan;brown
+14538/150019;102;NISSAN;sedan;dark gray
+05839/060718;51;Chevrolet;sedan;black
+23351/240758;14;Modern;SUV;black
+29570/304003;137;Renualt;SUV;red
+38712/396239;41;BYD;sedan;black
+11843/122519;51;Land Rover;SUV;black
+31228/320520;77;FAW;minivan;gray
+03148/032036;170;Volkswagen;sedan;dark gray
+16257/167842;34;Honda;sedan;black
+07091/073592;34;BMW;sedan;black
+03240/032928;78;Geely;sedan;black
+39617/404938;139;KIA;sedan;black
+01489/015462;20;Zhongtong;large-sized bus;black
+04212/043137;172;Honda;sedan;white
+37963/388599;110;Roewe;sedan;black
+11893/122993;14;Honda;SUV;black
+16679/172251;90;BMW;SUV;white
+29330/301710;78;Ford;sedan;gray
+11610/119988;41;Volkswagen;sedan;black
+28554/293588;139;Modern;SUV;brown
+30906/317652;163;NISSAN;SUV;black
+02512/025414;78;Chevrolet;sedan;white
+04186/042859;156;Southeast Motor;sedan;black
+29860/306720;78;Honda;SUV;white
+10565/108971;23;KIA;SUV;black
+36981/378109;139;Honda;SUV;black
+27132/279233;78;Honda;SUV;white
+23140/238853;110;Changan;minivan;gray
+06702/069641;41;Ford;SUV;red
+19190/197975;78;Wuling;minivan;gray
+36884/377121;75;Buick;business purpose vehicle/MPV;black
+10569/108993;102;Harvard;SUV;white
+30943/318015;110;Subaru;SUV;gray
+14303/147688;110;Honda;SUV;white
+32284/330431;94;Dongfeng Xiaokang;minivan;gray
+22583/232773;102;Modern;SUV;black
+14127/145793;34;BMW;sedan;white
+12025/124335;101;Volkswagen;sedan;black
+35890/366928;110;Volkswagen;SUV;black
+17055/175670;170;Changan;SUV;white
+02111/021520;163;Roewe;SUV;white
+06922/071788;14;KIA;sedan;gray
+37187/380331;14;Honda;sedan;white
+08151/084420;14;NISSAN;sedan;black
+20735/213420;110;BMW;SUV;white
+12862/132989;14;Changan;minivan;gray
+21647/223238;61;Chevrolet;sedan;white
+19767/204061;51;KIA;sedan;black
+10844/111856;172;Changan;minivan;gray
+00564/005869;60;Volkswagen;sedan;gray
+09256/095163;53;Wuling;minivan;dark gray
+32495/332543;139;Ford;SUV;white
+04925/050779;139;Skoda;sedan;dark gray
+05394/055981;106; Citroen;sedan;white
+12750/131816;79;Cheryl;sedan;red
+17338/178693;110;Audi;sedan;white
+05124/053118;78;Chevrolet;sedan;white
+28688/294860;139;JAC;SUV;white
+19258/198611;14;Yutong;large-sized bus;green
+31165/319895;14;BAIC Weiwang;minivan;gray
+25514/262883;110;BYD;SUV;white
+14442/149077;137;Mercedes-Benz;sedan;dark gray
+32461/332140;110;Bao Jun;SUV;brown
+13234/136668;139;Modern;sedan;white
+01621/016823;139;BMW;sedan;white
+28470/292762;94;Bao Jun;SUV;white
+36229/370356;78;Volkswagen;sedan;black
+01637/016944;161;Cadillac;sedan;white
+25298/260635;102;Wuling;minivan;red
+07701/079420;102;Volkswagen;sedan;white
+22718/234390;41;Volkswagen;sedan;black
+15578/160720;14;Golden Dragon;light passenger vehicle;white
+04019/041011;170;Mercedes-Benz;SUV;black
+36630/374480;104;Roewe;sedan;gray
+09562/098403;94;Volkswagen;sedan;yellow
+10691/110119;139;Audi;sedan;black
+16434/169709;14;Peugeot;SUV;black
+34740/355289;94;NISSAN;sedan;white
+00080/000781;61;Jeep;SUV;white
+35237/360283;60;Suzuki;sedan;gray
+21070/217118;170;Buick;sedan;black
+12008/124148;170;Haima;sedan;white
+14260/147238;139;Honda;sedan;black
+18785/193936;78;Changan; small-sized truck;gray
+12678/131027;34;Chevrolet;sedan;yellow
+28683/294809;15;NISSAN;SUV;dark gray
+04722/048572;41;Buick;sedan;gray
+02585/026136;41;Buick;sedan;red
+13005/134389;102;NISSAN;sedan;dark gray
+15646/161444;102;KIA;sedan;black
+18611/192345;3;Chevrolet;sedan;blue
+15111/155685;170;Modern;sedan;gray
+04348/044565;50;Zhongtong;large-sized bus;green
+03021/030644;86;Honda;sedan;black
+19324/199286;79;Volkswagen;sedan;black
+03062/031095;111;Volkswagen;sedan;gray
+30492/313294;22;Chevrolet;sedan;black
+15816/163147;106;Volkswagen;sedan;black
+08671/089597;41;Lincoln;SUV;red
+27929/287100;139;Volkswagen;SUV;black
+11177/115205;170;Changan;minivan;dark gray
+12689/131122;114;Wuling;minivan;gray
+23465/241844;106;Buick;SUV;black
+08603/088949;79;Volkswagen;sedan;black
+00584/006090;106;Ford;sedan;white
+22667/233785;172;Modern;sedan;gray
+36292/370993;7;Renualt;SUV;gray
+07678/079158;139;Modern;SUV;white
+29414/302580;129;Chevrolet;sedan;dark gray
+32781/335239;74;BAIC Weiwang;minivan;brown
+39114/399957;41;Volkswagen;sedan;white
+36173/369749;111;Volkswagen;sedan;black
+40633/415862;7;Volvo;sedan;gray
+35341/361364;170;NISSAN;SUV;white
+37911/388025;106;NISSAN;sedan;black
+28152/289546;61;NISSAN;sedan;black
+14554/150132;170;Modern;sedan;gray
+06587/068295;110; Citroen;sedan;gray
+21010/216393;49;Peugeot;sedan;white
+32834/335744;110;Ford;sedan;white
+06492/067298;78;Chevrolet;sedan;black
+11766/121710;114;Land Rover;SUV;black
+16330/168564;90;Ford;sedan;white
+22472/231619;32;Yutong;large-sized bus;red
+19579/201890;139;JAC;sedan;black
+07986/082420;139;Wuling;minivan;gray
+19594/202064;114;Changan;SUV;white
+04214/043182;110;Audi;sedan;gray
+08402/086941;94;NISSAN;SUV;white
+13414/138363;142;Car end;others;black
+04028/041144;102;Harvard;SUV;white
+01918/019790;110;Mercedes-Benz;sedan;black
+40178/411043;78;Harvard;SUV;red
+13530/139663;163;Great Wall;SUV;dark gray
+17178/176945;139;Ford;sedan;black
+15663/161598;106;Audi;sedan;black
+02392/024321;59;Honda;business purpose vehicle/MPV;black
+13598/140360;139;Wuling; small-sized truck;gray
+22041/227328;14;Dongfeng;business purpose vehicle/MPV;gray
+38974/398714;137;Buick;sedan;gray
+14307/147742;170;Buick;sedan;white
+20869/214733;51;Honda;sedan;white
+24567/253201;78;Geely;sedan;white
+32711/334516;169;Cheryl;sedan;white
+01081/011239;34;KIA;sedan;black
+33889/346096;78;Ford;sedan;white
+02404/024407;171;Dongfeng Xiaokang;minivan;black
+10637/109653;20;Yutong;large-sized bus;black
+36887/377144;14;Ford;sedan;red
+19825/204571;17;Mercedes-Benz;sedan;black
+00807/008545;110;Buick;sedan;black
+10960/113098;110;BMW;sedan;white
+31985/327664;126;Chevrolet;sedan;white
+03883/039710;58;Iveco;light passenger vehicle;white
+25367/261328;110;Peugeot;SUV;white
+04750/048940;110;Bao Jun;sedan;white
+11838/122481;137;NISSAN;sedan;white
+11265/116123;71;MG;sedan;white
+15892/164069;139;Mercedes-Benz;sedan;dark gray
+08631/089180;61;Toyota;sedan;black
+26653/274542;14;KIA;sedan;gray
+06684/069403;170;Mercedes-Benz;SUV;black
+12264/126859;110;NISSAN;SUV;red
+14801/152468;41;Bao Jun;SUV;white
+27181/279623;94;Buick;sedan;black
+08923/091909;114;Volkswagen;sedan;white
+33047/337782;94;Volkswagen;sedan;gray
+30564/313937;172;Wuling;minivan;blue
+01076/011181;41;Bao Jun;SUV;white
+06014/062510;163;Honda;sedan;white
+16283/168028;110;Bestune;sedan;red
+24074/248116;110;Skoda;sedan;white
+24694/254330;41;Geely;sedan;white
+06983/072469;110;Honda;sedan;white
+22779/235017;162;BMW;sedan;black
+04565/046970;60;Ford;SUV;white
+24542/252968;139;Changan;sedan;dark gray
+33195/339111;139;Wuling; small-sized truck;gray
+24440/251820;139;Ford;sedan;white
+38221/391302;170;KIA;sedan;white
+39955/408504;94;Honda;sedan;white
+36479/373075;139;Buick;SUV;white
+32500/332598;166;Jinbei;light passenger vehicle;white
+15769/162661;110;Volkswagen;sedan;black
+11418/117858;7;Bao Jun;sedan;white
+32228/329954;78;Hawtai;SUV;black
+14689/151380;139;Ford;SUV;black
+02203/022389;106;BMW;sedan;white
+24046/247685;3;Skoda;sedan;white
+38472/394114;110;Toyota;sedan;black
+36988/378202;14;Ford;SUV;black
+02480/025116;139;Toyota;sedan;yellow
+30129/309466;94;Geely;sedan;white
+22140/228269;20;Yutong;large-sized bus;blue
+01114/011659;5;KIA;sedan;gray
+40111/410337;7;Modern;sedan;gray
+20353/209601;78;Chevrolet;sedan;white
+24949/256971;147;Bao Jun;business purpose vehicle/MPV;black
+21598/222776;78;Bestune;sedan;black
+12121/125400;170;Porsche;SUV;black
+21153/217978;139;NISSAN;sedan;white
+14434/148983;94;Mitsubishi;sedan;white
+15220/156666;114;Opel;sedan;gray
+36956/377889;170;Toyota;sedan;gray
+06227/064570;110;Volvo;sedan;gray
+31660/324593;142;Peugeot;sedan;blue
+20644/212487;170;Volkswagen;sedan;gray
+17932/184900;14;Bestune;SUV;white
+21558/222318;74;EVERUS;sedan;gray
+03782/038770;137;Buick;sedan;black
+32692/334329;14;Changan;sedan;white
+08307/086093;14;Buick;business purpose vehicle/MPV;white
+06937/071888;78;Changan;minivan;gray
+03660/037471;51;Buick;sedan;gray
+00334/003489;110;Volkswagen;sedan;black
+25371/261410;110;Volkswagen;sedan;black
+40649/416139;37;Changan;SUV;white
+00167/001739;79;Honda;business purpose vehicle/MPV;dark gray
+06602/068448;102;Honda;sedan;black
+27943/287274;94;Changan;sedan;white
+06500/067363;14;Foton;large-sized bus;green
+37987/388850;106;Changan;sedan;white
+06207/064336;139;Volkswagen;SUV;black
+04748/048877;170;Chevrolet;SUV;dark gray
+27044/278366;106;Ford;sedan;gray
+10188/104889;23;Volkswagen;sedan;white
+21192/218438;110;Volkswagen;sedan;white
+39149/400301;170;Buick;sedan;black
+11522/118921;139;Volkswagen;sedan;white
+17275/177908;110;Volkswagen;sedan;gray
+07176/074526;110;Volkswagen;SUV;dark gray
+23837/245450;137;Mercedes-Benz;business purpose vehicle/MPV;black
+36431/372550;110;Harvard;sedan;dark gray
+09346/096056;102;Honda;sedan;black
+25998/267982;51;Skoda;sedan;white
+30083/309007;139;BYD;sedan;red
+25202/259657;78;NISSAN;sedan;dark gray
+23587/243144;59;Toyota;sedan;black
+04101/042022;34;Changan;sedan;white
+39110/399919;14;FAW;minivan;white
+22230/229171;90;Zotye;sedan;white
+38427/393655;110;Buick;sedan;black
+07229/075006;74;Volvo;sedan;gray
+06600/068410;139;Forland times; small-sized truck;gray
+29749/305655;170;FAW;sedan;blue
+17198/177209;139;Ford;SUV;black
+18381/189696;7;Volkswagen;sedan;red
+37939/388340;106;Changan; small-sized truck;gray
+31389/322007;139;Volkswagen;sedan;gray
+25033/257866;106;BMW;sedan;dark gray
+36745/375568;106;Ford;sedan;blue
+06435/066628;155;HIGER;large-sized bus;green
+14737/151920;139;Buick;sedan;gray
+21778/224514;41;Wuling;minivan;white
+15880/163998;14;Volkswagen;sedan;black
+25713/265001;111;Volkswagen;sedan;black
+16170/167005;22;Zhonghua;sedan;gray
+40365/413033;23;Modern;SUV;black
+14209/146724;34;DS;sedan;black
+15388/158349;41;Karry;minivan;gray
+03811/039048;111;Peugeot;sedan;white
+26112/269063;14;Modern;sedan;black
+23510/242329;75;NISSAN;sedan;white
+27476/282600;137;Harvard;SUV;white
+14987/154497;110;Toyota;SUV;black
+25382/261500;86;Dongfeng;HGV/large truck;blue
+16824/173528;78;Volkswagen;sedan;white
+11344/117015;110;Mercedes-Benz;SUV;white
+38722/396369;41;Changan;SUV;white
+02029/020750;110;Harvard;SUV;red
+06865/071280;110;Honda;sedan;blue
+40325/412568;126;Harvard;SUV;black
+22331/230133;78;Volkswagen;sedan;white
+06814/070881;74;Geely;sedan;black
+02210/022458;137;Volkswagen;sedan;black
+06897/071590;170;Audi;sedan;black
+38055/389588;139;Harvard;SUV;white
+34911/356901;94;Honda;business purpose vehicle/MPV;gray
+11624/120128;139;KIA;SUV;white
+25686/264666;122;Ford;sedan;white
+38277/391907;58;Bestune;sedan;white
+16633/171801;139;Buick;SUV;black
+20554/211631;78;Volvo;sedan;dark gray
+13699/141378;163;Buick;business purpose vehicle/MPV;black
+35224/360144;7;Honda;sedan;black
+40159/410901;163;Southeast Motor;sedan;gray
+34652/354275;172;Toyota;sedan;black
+28188/290023;110;Toyota;sedan;white
+39669/405492;110;DODGE;SUV;black
+26003/268023;50;Zhongtong;large-sized bus;green
+09817/101172;86;Buick;sedan;red
+23181/239206;41;Toyota;sedan;white
+31865/326335;110;Infiniti;SUV;white
+11899/123084;110;Audi;sedan;black
+24379/251222;170;Volkswagen;sedan;gray
+16720/172598;14;Honda;business purpose vehicle/MPV;black
+19694/203321;79;Volkswagen;sedan;black
+34600/353740;129;Wuling;minivan;white
+08248/085392;22;Volkswagen;sedan;gray
+00439/004640;139; Citroen;sedan;black
+17917/184779;14;Modern;SUV;dark gray
+18525/191229;110;KIA;sedan;black
+33282/339876;110;Volvo;SUV;brown
+02673/027085;41;Ford;sedan;white
+07495/077404;94; Citroen;sedan;gray
+07023/072850;94;Mercedes-Benz;SUV;white
+36463/372896;110;BAIC Senova;sedan;black
+04197/042977;41;Skoda;sedan;dark gray
+37043/378673;51;Peugeot;sedan;white
+08264/085654;166;FIAT;sedan;gray
+25626/264055;110;Volkswagen;SUV;black
+12561/129868;139;Bao Jun;SUV;white
+16462/169992;170;Toyota;sedan;black
+25573/263527;78;Changan;sedan;white
+11775/121808;110;Jeep;SUV;black
+27669/284581;110;Ford;SUV;white
+29673/304940;166;BYD;sedan;white
+31527/323215;51;Honda;sedan;white
+20740/213471;171;Volkswagen;sedan;dark gray
+28898/297082;114;Cheryl;sedan;green
+16164/166957;14;Volkswagen;sedan;black
+35434/362289;79;Great Wall;SUV;white
+20751/213570;14;Volkswagen;sedan;dark gray
+08569/088619;128;Jinbei;minivan;gray
+17054/175662;139;Ford;SUV;black
+39072/399580;78;Mitsubishi;SUV;white
+35841/366494;58;NISSAN;sedan;gray
+26075/268681;101;Volkswagen;sedan;black
+30380/312166;110;Modern;SUV;gray
+04589/047252;110;Volvo;SUV;white
+18016/185705;7;Honda;SUV;white
+24974/257219;106;BYD;sedan;white
+04790/049319;19;Toyota;sedan;white
+23512/242355;169;Toyota;sedan;red
+39961/408569;106;Foton;light passenger vehicle;white
+09123/093969;51;Changan;SUV;white
+18324/189051;7;Jeep;SUV;black
+19562/201708;172;Dongfeng Xiaokang;minivan;gray
+04015/040965;94;Buick;sedan;black
+32065/328368;100;Volkswagen;sedan;dark gray
+17342/178748;110;Suzuki;sedan;red
+40429/413668;7;Ford;sedan;white
+27962/287522;14;Dongfeng Fengshen;sedan;white
+04409/045231;111;Buick;sedan;black
+01179/012341;94;Volkswagen;sedan;black
+25540/263168;114;Wuling;minivan;gray
+34986/357869;139;Volkswagen;sedan;white
+29428/302708;78;Volkswagen;SUV;black
+20270/208844;51;FIAT;sedan;white
+08437/087249;110;Ford;sedan;white
+12542/129642;152;Audi;SUV;white
+15244/156891;78;Chevrolet;sedan;gray
+25707/264918;34;Skoda;sedan;dark gray
+39524/403954;139;Forland times; small-sized truck;white
+32592/333485;139;Mercedes-Benz;sedan;white
+11841/122500;106;Bestune;sedan;gray
+25638/264198;78;Toyota;business purpose vehicle/MPV;gray
+25103/258700;94;LUXGEN;SUV;white
+27387/281645;139;Honda;sedan;black
+01121/011710;170;Cheryl;SUV;white
+24187/249410;139;BAIC Weiwang;minivan;gray
+10828/111685;78;Golden Dragon;light passenger vehicle;white
+16622/171661;110;Great Wall;sedan;red
+02619/026402;90;Wuling;minivan;gray
+06552/067926;94;Volkswagen;business purpose vehicle/MPV;black
+36576/373975;14;Volkswagen;sedan;white
+32570/333294;61;GAC Motor;SUV;white
+10542/108748;106;Changan;sedan;black
+18664/192879;152;KIA;sedan;red
+27989/287812;110;KIA;sedan;black
+19946/205698;14;Modern;SUV;black
+36817/376441;78;Volkswagen;sedan;gray
+07474/077246;110;Dongfeng Fengxing;business purpose vehicle/MPV;gray
+33142/338666;170;Bao Jun;SUV;white
+03325/033822;110;Ford;sedan;dark gray
+34469/352210;122;Forland times; small-sized truck;gray
+26181/269676;15;BAIC Motor;sedan;white
+36900/377274;110;Ford;light passenger vehicle;white
+28320/291459;110;Volkswagen;sedan;cyan
+09173/094407;170;BYD;sedan;white
+16140/166708;106;Volkswagen;sedan;white
+24366/251037;79;KIA;sedan;black
+17781/183309;14;KIA;sedan;white
+33153/338800;137;Chevrolet;sedan;white
+32765/335073;106;Volkswagen;sedan;black
+37069/378938;82;Buick;sedan;white
+01899/019619;42;Wuling;minivan;dark gray
+21297/219381;34;NISSAN;sedan;white
+17689/182216;41;Honda;SUV;black
+29530/303660;139;Cadillac;sedan;black
+29947/307752;106; Citroen;sedan;blue
+24626/253754;41;Toyota;business purpose vehicle/MPV;gray
+23725/244463;166;Volkswagen;sedan;gray
+36438/372639;139;Ford;SUV;black
+12318/127470;94;Great Wall;SUV;black
+35255/360441;94;Golden Dragon;light passenger vehicle;white
+07586/078368;14;Southeast Motor;SUV;black
+10242/105415;110;Subaru;SUV;gray
+38807/397125;110;KIA;SUV;black
+37698/385822;15;Harvard;SUV;dark gray
+17434/179795;7;FAW;sedan;white
+21022/216555;94;Honda;sedan;dark gray
+16094/166261;139;Buick;sedan;black
+19672/203060;61;Toyota;sedan;black
+11920/123266;34;Volkswagen;sedan;black
+34803/355832;41;Ford;sedan;gray
+08563/088534;106;KIA;SUV;black
+38168/390759;139;NISSAN;sedan;gray
+03950/040406;78; Citroen;sedan;red
+06596/068376;139;Volkswagen;SUV;black
+17880/184382;172;Buick;sedan;black
+39890/407861;102;Forland times; small-sized truck;gray
+03846/039387;106;BYD;SUV;brown
+40318/412507;139;Buick;sedan;white
+07753/080000;14;Roewe;sedan;red
+37553/384212;139;Geely;sedan;white
+27797/285803;41;Jinbei;light passenger vehicle;gray
+13337/137573;137;KIA;sedan;white
+11012/113618;41;Ford;sedan;black
+28504/293084;51;Volkswagen;sedan;white
+25341/261096;23;Volkswagen;sedan;white
+00126/001243;3;Ford;sedan;white
+08692/089836;14;Volkswagen;sedan;white
+38393/393241;101;Mercedes-Benz;business purpose vehicle/MPV;gray
+08186/084796;170;BMW;sedan;gray
+11060/114053;41;Forland times;HGV/large truck;white
+32672/334167;79;Toyota;SUV;blue
+16482/170180;172;MG;sedan;black
+35500/362939;172;Bao Jun;SUV;black
+09985/102872;111;Volkswagen;SUV;black
+32907/336419;163;DODGE;SUV;white
+27075/278634;23;Mercedes-Benz;sedan;white
+12660/130851;102;Modern;sedan;white
+29337/301820;106;Honda;sedan;black
+32260/330210;139;JAC;SUV;white
+29786/306034;41;Volkswagen;sedan;black
+10248/105513;94;Buick;sedan;black
+04853/050063;137;Wuling;minivan;brown
+09057/093359;106;Ford;sedan;gray
+08756/090340;171;Audi;sedan;white
+31734/325235;14;Peugeot;sedan;white
+22367/230474;22;Volkswagen;sedan;black
+14529/149962;139; Citroen;sedan;white
+07221/074898;139;Wuling;minivan;dark gray
+06464/066950;41;Honda;sedan;black
+18911/195238;102;Cadillac;SUV;black
+14458/149296;51;Mercedes-Benz;SUV;red
+40286/412199;61;Yutong;large-sized bus;black
+21423/220785;30;JAC;sedan;black
+34473/352241;170;Changan;SUV;black
+30478/313164;110;KIA;SUV;black
+02914/029626;14;Chevrolet;sedan;gray
+19990/206162;61;Volkswagen;sedan;black
+39754/406299;139;Toyota;sedan;black
+27776/285551;137;Harvard;SUV;white
+22793/235171;61;Ford;light passenger vehicle;white
+07464/077134;156;Skoda;sedan;red
+13171/136109;110;Cheryl;SUV;brown
+07319/075837;170;Renualt;SUV;black
+36913/377349;14;Volkswagen;sedan;black
+07594/078460;78;Toyota;sedan;black
+34812/355920;14;FAW;sedan;white
+15587/160793;106;Ford;SUV;white
+21299/219420;41;KIA;sedan;gray
+05794/060299;81;Buick;sedan;white
+39627/405018;4;BAIC Motor;sedan;white
+02214/022495;58;Toyota;SUV;white
+32669/334138;14;Huanghai;SUV;black
+29146/299716;78;BAIC Huansu;SUV;white
+28713/295106;110;Wuling;minivan;white
+11040/113919;14;Modern;sedan;white
+25902/267032;20;Yutong;large-sized bus;red
+14778/152301;14;Isuzu;HGV/large truck;yellow
+04881/050371;41;Great Wall;sedan;white
+25642/264228;106;Ford;sedan;white
+31073/319094;139;Volvo;sedan;white
+31313/321378;78;Skoda;sedan;white
+38184/390918;79;Audi;sedan;black
+12934/133717;14;Toyota;SUV;black
+11184/115259;94;Volkswagen;sedan;white
+37088/379190;110;Bao Jun;SUV;brown
+26780/275783;114;Geely;sedan;gray
+18232/188010;139;Honda;business purpose vehicle/MPV;black
+14253/147145;22;Volkswagen;sedan;dark gray
+34994/357959;170;Honda;sedan;red
+19084/197005;172;Dongfeng Fengshen;SUV;black
+17208/177296;147;Dongfeng;pickup truck;white
+17395/179410;61;Changan;SUV;white
+38510/394408;139;Honda;SUV;white
+17426/179740;14;NISSAN;SUV;black
+37133/379740;102;Geely;sedan;white
+36966/377999;110;Isuzu;pickup truck;white
+14772/152240;114;KIA;SUV;yellow
+16123/166549;170;Modern;SUV;black
+13752/141842;41;Volkswagen;sedan;cyan
+35615/364135;106;Bestune;sedan;black
+01035/010804;110;Audi;sedan;black
+36645/374624;94;Foton;light passenger vehicle;white
+06223/064523;94;Southeast Motor;sedan;dark gray
+14918/153694;78;Chevrolet;sedan;black
+35119/359119;61;LUXGEN;SUV;white
+05489/057011;110;NISSAN;sedan;dark gray
+04658/047896;61;GAC Motor;SUV;white
+34987/357887;110;Cheryl;SUV;white
+09402/096671;41;Volkswagen;sedan;black
+39522/403933;110;Volkswagen;sedan;gray
+11632/120249;110;Volkswagen;sedan;black
+26762/275630;110;Buick;business purpose vehicle/MPV;dark gray
+26993/277899;139;Volkswagen;SUV;gray
+17923/184834;170;Modern;sedan;red
+06272/064995;41;Bao Jun;sedan;red
+37050/378768;110;Buick;sedan;red
+00626/006570;78;NISSAN;sedan;white
+07924/081852;41;KIA;SUV;black
+26938/277446;106;Cheryl;SUV;black
+31888/326555;156;Changan;minivan;white
+37836/387312;42;Dongfeng Xiaokang;minivan;gray
+35455/362500;102;Honda;business purpose vehicle/MPV;white
+35209/359948;86;JAC;SUV;white
+12100/125215;110;Wuling;minivan;brown
+26469/272760;41;Jinbei;light passenger vehicle;black
+22990/237196;14;Changan;sedan;yellow
+39924/408253;78;Skoda;sedan;dark gray
+21841/225174;14;KIA;sedan;dark gray
+04995/051678;100;Honda;SUV;white
+37225/380638;111;Ford;light passenger vehicle;white
+38314/392332;79;Bao Jun;business purpose vehicle/MPV;black
+31670/324672;102;BAIC Weiwang;business purpose vehicle/MPV;white
+34139/348776;139;Audi;SUV;black
+02196/022338;139;Skoda;sedan;white
+08582/088745;23;KIA;SUV;black
+18135/186876;110;Buick;sedan;black
+08262/085636;34;Jaguar;sedan;black
+03168/032173;79;Volkswagen;sedan;black
+03874/039635;14;Mitsubishi;sedan;black
+03502/035796;3;Volkswagen;sedan;white
+27740/285201;114;BYD;sedan;white
+40427/413648;41;Volkswagen;SUV;white
+38368/392899;156;Harvard;SUV;dark gray
+36968/378020;86;Audi;sedan;black
+18969/195768;89;Modern;sedan;white
+35831/366399;94;Honda;sedan;white
+35840/366488;41;Audi;SUV;white
+35575/363738;110;Audi;sedan;black
+26718/275330;170;BAIC Senova;sedan;black
+12657/130828;110;Volkswagen;sedan;gray
+28796/295917;78;Ford;SUV;white
+04455/045777;110;Volkswagen;sedan;white
+16212/167336;106;BAIC Senova;sedan;white
+09396/096625;35;Changan;sedan;blue
+25568/263489;110;Ford;sedan;white
+24150/249021;139;NISSAN;sedan;black
+12120/125398;156;Mercedes-Benz;SUV;black
+13917/143444;161;Wuling;minivan;gray
+32913/336460;41;Honda;sedan;black
+32358/331219;34;NISSAN;pickup truck;gray
+35386/361785;94;KIA;SUV;black
+08850/091261;100;Honda;sedan;black
+11231/115825;61;Toyota;sedan;white
+19674/203090;94;Buick;sedan;black
+14446/149099;79;Suzuki;sedan;dark gray
+30634/314628;86;Chevrolet;sedan;white
+38252/391621;14;Volkswagen;SUV;black
+08515/087946;152;Buick;sedan;white
+05915/061489;67;Honda;sedan;blue
+30860/317124;14;Audi;sedan;black
+24806/255459;172;Changan;SUV;white
+33448/341534;170;Modern;sedan;white
+36806/376323;170;Toyota;SUV;white
+16286/168050;110;Volkswagen;sedan;dark gray
+04269/043858;110;Bestune;SUV;white
+28983/298067;78;Honda;business purpose vehicle/MPV;white
+01771/018209;79;Volkswagen;sedan;black
+01941/019972;122;Buick;sedan;dark gray
+39158/400428;170;Toyota;SUV;black
+36559/373800;152;Volkswagen;sedan;black
+36143/369450;78;Ford;sedan;blue
+21333/219824;14;Dongfeng;large-sized bus;black
+17227/177447;166;Chevrolet;SUV;black
+34274/350230;170;Volkswagen;sedan;white
+35327/361200;110;Bao Jun;SUV;black
+39920/408220;110;BMW;SUV;white
+34019/347488;137;NISSAN;sedan;gray
+00869/009135;7;Volkswagen;sedan;black
+33768/344825;110;Volkswagen;sedan;black
+04603/047375;139;Buick;sedan;white
+25862/266592;94;Audi;sedan;black
+34272/350199;79;Volkswagen;sedan;dark gray
+29204/300313;114;NISSAN;sedan;white
+28642/294379;41;Roewe;sedan;red
+13257/136910;156;Haima;sedan;gray
+04330/044424;14;Volkswagen;sedan;gray
+24021/247423;22;Modern;sedan;white
+01406/014638;106;FAW;sedan;gray
+18604/192202;90;Cheryl;sedan;dark gray
+34061/347969;30;Mercedes-Benz;SUV;white
+38806/397094;41;KIA;SUV;black
+02190/022262;51;Geely;sedan;black
+39738/406079;170;Chevrolet;sedan;black
+23843/245530;78;Ford;sedan;white
+07454/077062;78;Toyota;sedan;black
+37295/381382;51;Jinbei;light passenger vehicle;white
+37419/382647;61;Audi;SUV;black
+20200/208240;106;KIA;sedan;white
+04309/044229;94;Mercedes-Benz;SUV;white
+01791/018502;139;Chevrolet;sedan;black
+19039/196473;106;BMW;sedan;blue
+32224/329916;41;Ford;sedan;gray
+37934/388269;94;Buick;sedan;dark gray
+13579/140180;79;Cadillac;SUV;black
+29805/306258;94;Modern;sedan;red
+03101/031544;163;Ford;sedan;dark gray
+24576/253298;94;Audi;sedan;white
+32761/335042;78;Volkswagen;SUV;black
+31879/326456;110;Audi;sedan;black
+05880/061170;5;Volkswagen;sedan;gray
+39912/408121;14;Chevrolet;sedan;white
+24357/250972;34;Southeast Motor;SUV;white
+03460/035200;51;Volkswagen;sedan;gray
+26740/275479;14;Toyota;sedan;white
+04006/040897;14;Wuling;minivan;white
+32899/336332;41;Bestune;SUV;white
+13342/137638;51;Lexus ;sedan;gray
+18434/190284;51;Changan;business purpose vehicle/MPV;white
+19344/199539;110;Honda;sedan;black
+17805/183585;41;Modern;sedan;white
+34678/354488;41;Volkswagen;sedan;black
+04405/045145;94;Volkswagen;SUV;gray
+35383/361769;102;Ford;sedan;white
+33579/342988;14;Volkswagen;sedan;black
+34127/348630;170;Jeep;SUV;gray
+32828/335700;78;Volkswagen;SUV;gray
+04855/050089;106; Citroen;sedan;white
+32989/337213;61;Geely;sedan;red
+27078/278664;41;Skoda;sedan;dark gray
+08555/088368;14;Toyota;SUV;white
+34216/349634;139;Changhe;minivan;white
+08940/092058;41;Modern;sedan;white
+33410/341194;106;Chevrolet;sedan;white
+20155/207786;78;Chevrolet;sedan;white
+26283/270762;58;Mercedes-Benz;business purpose vehicle/MPV;black
+27115/279061;170;Changan;SUV;white
+13455/138850;7;KIA;SUV;dark gray
+24170/249191;41;Geely;sedan;white
+03164/032148;79;Buick;business purpose vehicle/MPV;dark gray
+38085/389862;34;Chevrolet;SUV;white
+35445/362393;53;Geely;sedan;white
+18728/193388;81;Volkswagen;sedan;white
+11561/119309;114;Ford;sedan;red
+27002/277975;41;JAC;business purpose vehicle/MPV;gray
+07750/079962;41;Land Rover;SUV;black
+02454/024871;78;Volkswagen;sedan;black
+17122/176314;114;Modern;sedan;red
+02415/024552;32;Yutong;large-sized bus;black
+08087/083670;110;Ford;sedan;white
+27627/284093;81;Audi;sedan;black
+15516/159872;14;Volkswagen;sedan;black
+09398/096643;94;Cheryl;SUV;white
+18676/192962;110;Toyota;SUV;white
+39631/405077;171;Peugeot;sedan;white
+02560/025887;67;Ford;sedan;black
+35633/364335;139;Audi;SUV;white
+02324/023593;23; Citroen;sedan;white
+34851/356347;110;BMW;sedan;red
+32375/331376;170;Toyota;pickup truck;gray
+13092/135332;147;Haima;SUV;black
+20238/208628;139;Volkswagen;sedan;gray
+35556/363483;78;Chrysler;sedan;white
+24885/256334;155;SUNWIN;large-sized bus;black
+25560/263438;107;Honda;sedan;red
+29111/299419;110;Toyota;SUV;white
+00676/007232;102;Bao Jun;sedan;gray
+10685/110059;41;NISSAN;SUV;dark gray
+34479/352299;106;Volkswagen;sedan;white
+35052/358503;109;NISSAN;sedan;gray
+39514/403875;78;Audi;sedan;black
+33681/344029;78;Toyota;sedan;gray
+30325/311431;101;Wuling; small-sized truck;gray
+21104/217475;137;Buick;business purpose vehicle/MPV;dark gray
+37574/384397;34;BMW;sedan;black
+11689/120861;67;Land Rover;SUV;white
+17172/176897;41;Skoda;sedan;red
+18047/186032;51;Volkswagen;sedan;white
+35399/361929;78;Buick;sedan;blue
+30313/311296;14;JAC;light passenger vehicle;dark gray
+05206/054078;94;Cheryl;sedan;gray
+12495/129107;79;Ford;SUV;white
+37843/387367;139;Modern;sedan;white
+32995/337295;111;Jinbei;light passenger vehicle;black
+37527/383918;172;Dongfeng Xiaokang;minivan;gray
+03234/032854;110;NISSAN;sedan;black
+07124/073884;41;Harvard;SUV;white
+06910/071680;32;Jing long;large-sized bus;blue
+07965/082208;102;Modern;sedan;white
+03840/039327;166;Dongfeng;pickup truck;black
+01104/011527;61;Bao Jun;SUV;white
+19078/196961;94;Peugeot;SUV;brown
+38864/397760;90;Chevrolet;sedan;gray
+14387/148494;3;Harvard;SUV;white
+23449/241713;170;Volvo;SUV;black
+29406/302508;110;Buick;sedan;gray
+35496/362911;14;Volkswagen;SUV;black
+36519/373437;61;Geely;sedan;white
+02166/022019;14;Volkswagen;sedan;red
+29306/301448;51;Modern;SUV;black
+01118/011688;41;NISSAN;sedan;black
+14203/146667;166;Cadillac;SUV;dark gray
+38397/393303;23;Harvard;SUV;dark gray
+35589/363899;41;BAIC BJEV;sedan;white
+29741/305578;101;Volkswagen;sedan;dark gray
+03200/032511;60;Volkswagen;SUV;white
+39476/403538;60;Volkswagen;sedan;black
+10541/108730;22;Volkswagen;SUV;gray
+06603/068449;170;NISSAN;sedan;dark gray
+03066/031135;60;NISSAN;sedan;black
+02869/029133;110;Audi;sedan;black
+29281/301189;110;Volkswagen;sedan;black
+06494/067324;7;Toyota;sedan;white
+33825/345481;61;Foton;HGV/large truck;blue
+37377/382202;51;Southeast Motor;sedan;gray
+22858/235790;28;Ford;sedan;gray
+22693/234159;51;Buick;business purpose vehicle/MPV;gray
+07855/081120;102;Changan;minivan;blue
+26833/276346;172;KIA;sedan;white
+05997/062339;14;Volkswagen;sedan;black
+00377/003906;139;Peugeot;SUV;white
+04689/048217;170;Volkswagen;sedan;dark gray
+38255/391679;94;Volkswagen;sedan;black
+32940/336680;170;Buick;sedan;white
+22103/227908;139;Wuling;minivan;gray
+33193/339102;170;Bestune;sedan;gray
+21424/220796;14;Changan;sedan;gray
+19780/204184;14;Volkswagen;sedan;black
+18449/190379;41;Buick;sedan;dark gray
+39311/401921;170;Subaru;SUV;white
+19467/200836;110;Toyota;sedan;gray
+35318/361109;78;Southeast Motor;SUV;white
+20244/208669;110;Mercedes-Benz;sedan;gray
+33483/341974;106;Volkswagen;sedan;white
+38965/398608;137;Audi;sedan;black
+29656/304772;156;Buick;sedan;white
+38508/394389;78;KIA;sedan;white
+38737/396497;102;Audi;sedan;black
+33404/341109;114;Geely;sedan;white
+11934/123369;152;Land Rover;SUV;black
+37828/387165;156;Ford;sedan;red
+24444/251854;110;Changan;business purpose vehicle/MPV;black
+30594/314268;139;FAW;business purpose vehicle/MPV;gray
+16971/174943;170;Mercedes-Benz;SUV;white
+11085/114276;41;NISSAN;sedan;dark gray
+12365/127962;41;Honda;sedan;gray
+11615/120033;170;Modern;sedan;black
+12285/127080;78;Toyota;sedan;black
+09890/101927;61;Wuling;minivan;white
+24807/255473;163;Cadillac;sedan;black
+40376/413150;166;GAC Motor;SUV;white
+40238/411710;94;Toyota;business purpose vehicle/MPV;white
+04406/045183;61;Mercedes-Benz;sedan;black
+06601/068422;106;Changan;sedan;white
+17621/181674;110;Volkswagen;sedan;white
+19032/196363;146;Mazda;sedan;white
+09032/093090;30; Citroen;sedan;dark gray
+33964/346938;14;Buick;sedan;gray
+34921/356989;34;Wuling;minivan;gray
+23231/239624;94;Honda;SUV;black
+07751/079970;139;Volkswagen;sedan;gray
+25079/258454;110;Buick;sedan;black
+28860/296618;14;Buick;SUV;dark gray
+09453/097194;14;Volkswagen;SUV;black
+13792/142163;94;Toyota;sedan;black
+16946/174650;90;Volkswagen;sedan;white
+18083/186350;110;Buick;business purpose vehicle/MPV;dark gray
+30434/312685;110;Southeast Motor;SUV;gray
+21702/223731;58;Volkswagen;SUV;gray
+11862/122719;110;Volkswagen;sedan;red
+12896/133320;79;Mercedes-Benz;sedan;black
+12101/125220;122;Wuling;minivan;gray
+28182/289959;41;Volkswagen;sedan;black
+32638/333879;79;MINI;SUV;red
+17801/183525;78;Toyota;sedan;white
+06688/069458;74;Buick;SUV;white
+25376/261445;34;Buick;business purpose vehicle/MPV;gray
+03045/030904;34;Honda;sedan;black
+04974/051411;139;BYD;SUV;white
+32277/330372;14;Jing long;large-sized bus;blue
+29417/302610;110;Honda;sedan;black
+05926/061629;7;Volkswagen;sedan;black
+32235/330019;139;Changan; small-sized truck;gray
+31706/324988;139;Cadillac;SUV;brown
+30178/309941;110;Audi;SUV;gray
+00984/010384;139;Buick;sedan;gray
+24384/251268;171;Ford;light passenger vehicle;white
+18082/186335;110;Cheryl;sedan;red
+38593/395138;22;Audi;SUV;black
+01913/019742;110;Buick;business purpose vehicle/MPV;gray
+37458/383059;78;Bao Jun;sedan;white
+17340/178716;139;Honda;sedan;white
+00970/010109;14;Modern;SUV;black
+22641/233406;7;Modern;sedan;black
+26236/270310;94;Toyota;sedan;black
+10613/109396;152;Audi;sedan;black
+04351/044589;106;Volkswagen;sedan;white
+26825/276277;122;KIA;sedan;white
+14798/152448;34;NISSAN;sedan;black
+03396/034599;79;Honda;SUV;black
+21407/220639;139;Volkswagen;sedan;white
+03720/038078;34;Volkswagen;sedan;white
+06895/071572;61;Audi;sedan;black
+07451/077035;79;Volkswagen;sedan;white
+06990/072555;14;Bestune;sedan;black
+25220/259901;109;Honda;sedan;white
+27794/285768;78;Chevrolet;sedan;red
+01970/020259;41;Volkswagen;sedan;black
+38691/396088;163;BMW;sedan;black
+15627/161223;106;Honda;sedan;black
+03430/034980;41;Wuling;minivan;gray
+14197/146591;51;Buick;sedan;dark gray
+01555/016081;106;Changan;minivan;gray
+14515/149780;41;Mercedes-Benz;sedan;red
+21590/222682;14;Harvard;SUV;black
+00462/004921;163;Chevrolet;sedan;white
+19241/198419;114;Geely;sedan;gray
+36642/374589;34;Modern;sedan;black
+33669/343921;7;Forland times; small-sized truck;gray
+15991/165155;7;Volkswagen;sedan;white
+04047/041339;102;Great Wall;SUV;gray
+22186/228716;139;Toyota;sedan;white
+14112/145605;79;Buick;business purpose vehicle/MPV;black
+03655/037398;137;Buick;business purpose vehicle/MPV;gray
+29614/304443;169;Volkswagen;sedan;white
+35752/365575;61;KIA;sedan;black
+16244/167680;110;Geely;sedan;white
+22595/232867;114;Changan;minivan;white
+29797/306126;4;Zotye;sedan;white
+16795/173289;110;Changan;minivan;dark gray
+35508/363018;51;Mercedes-Benz;sedan;black
+18608/192323;139;Roewe;sedan;white
+16567/171094;20;Zhongtong;large-sized bus;green
+09326/095875;139;NISSAN;sedan;black
+00614/006468;30;Chevrolet;sedan;white
+29694/305140;102;Dongfeng Fengxing;business purpose vehicle/MPV;gray
+35329/361220;172;Wuling;minivan;gray
+11397/117621;23;Volkswagen;sedan;white
+18372/189587;101;KIA;SUV;white
+28187/290014;14;Volkswagen;sedan;white
+20886/214889;20;Changan;minivan;golden
+11101/114413;131;Changan;sedan;white
+04413/045261;110;Bao Jun;SUV;white
+03758/038423;60;Zhongtong;large-sized bus;green
+34732/355179;110;Dongfeng Fengxing;business purpose vehicle/MPV;gray
+29483/303284;78;Wuling;minivan;gray
+06391/066148;51;KIA;sedan;white
+15025/154909;7;Modern;SUV;white
+27688/284750;41;Volkswagen;sedan;black
+14678/151263;74;KIA;sedan;black
+09809/101051;22;Chevrolet;sedan;red
+31490/322906;170;Buick;sedan;white
+16948/174660;110;Bestune;SUV;gray
+07538/077839;114;NISSAN;SUV;white
+21003/216300;41;Toyota;sedan;white
+12049/124599;110;Wuling;minivan;gray
+05408/056178;61;Honda;sedan;white
+08499/087798;110;Volkswagen;sedan;black
+29479/303240;51;Shaanqi Tongjia;minivan;dark gray
+12056/124759;172;Suzuki;sedan;white
+10527/108588;78;Lincoln;SUV;black
+38547/394730;106;Buick;sedan;black
+32221/329896;110;SUNWIN;large-sized bus;green
+40528/414744;78;Truck;HGV/large truck;white
+37143/379843;171;Honda;sedan;white
+15626/161204;23;NISSAN;sedan;black
+03699/037839;171;Smart;sedan;white
+09889/101925;41;Volkswagen;sedan;gray
+22695/234196;14;Buick;business purpose vehicle/MPV;white
+12551/129738;137;Volkswagen;sedan;dark gray
+04482/046112;169;Honda;sedan;white
+07342/076029;114;Chevrolet;sedan;white
+38131/390359;110;Buick;sedan;black
+27863/286404;14;Buick;sedan;black
+01542/015949;122;NISSAN;sedan;white
+02482/025128;79;Volkswagen;sedan;green
+03790/038837;23;Buick;sedan;black
+02832/028738;137;Buick;sedan;gray
+26586/273947;110;Mercedes-Benz;business purpose vehicle/MPV;black
+09477/097483;14;Mercedes-Benz;sedan;black
+29391/302342;166;FAW;sedan;gray
+28589/293918;34;Toyota;sedan;gray
+07001/072652;110;Roewe;SUV;white
+32194/329661;114;Peugeot;sedan;gray
+20453/210607;78;Audi;sedan;black
+07356/076186;41;Buick;sedan;gray
+29065/298988;14;Volkswagen;sedan;blue
+12998/134338;14;Volkswagen;sedan;white
+17073/175838;171;Mazda;sedan;white
+09524/098049;163;Bestune;sedan;black
+13377/138042;170;NISSAN;SUV;white
+32947/336762;71;Volkswagen;large-sized bus;blue
+14694/151429;106;NISSAN;sedan;black
+37710/385956;61;Chevrolet;sedan;gray
+24867/256108;58;Buick;business purpose vehicle/MPV;black
+01807/018670;14;Toyota;SUV;black
+25908/267083;61;Mitsubishi;SUV;blue
+07846/081029;110;Volkswagen;sedan;gray
+25056/258166;110;NISSAN;sedan;gray
+00312/003310;94;Jiangling;HGV/large truck;white
+23177/239160;170;Buick;sedan;red
+35393/361882;110;Toyota;sedan;black
+34000/347266;61;Modern;sedan;white
+22024/227183;14;Geely;sedan;gray
+30680/315092;139;Golden Dragon;light passenger vehicle;gray
+24489/252436;106;Audi;sedan;white
+18498/190967;110;Great Wall;pickup truck;gray
+24997/257403;78;Smart;sedan;red
+24024/247456;102;Changan;minivan;gray
+40265/412005;14;Jing long;large-sized bus;blue
+12719/131470;163;KIA;SUV;black
+14633/150867;78;NISSAN;sedan;black
+33375/340790;170;NISSAN;sedan;black
+19400/200170;74;Geely;sedan;gray
+26540/273477;166;Wuling;minivan;gray
+37763/386405;163;KIA;sedan;black
+28383/292029;170;Audi;sedan;black
+04883/050382;40;Toyota;SUV;white
+02348/023834;147;Wuling;minivan;brown
+15895/164115;123;Bestune;SUV;white
+18424/190163;61;JAC;SUV;white
+36641/374581;152;Bao Jun;SUV;white
+29345/301956;166;Roewe;sedan;black
+34307/350538;34;Skoda;sedan;dark gray
+24406/251544;94;NISSAN;sedan;white
+26067/268590;41;Cheryl;sedan;black
+35862/366685;94;Modern;sedan;dark gray
+25173/259288;139;Foton;minivan;gray
+16405/169323;139;DODGE;SUV;white
+25022/257728;78;Changan;minivan;white
+14377/148377;41;Volkswagen;sedan;gray
+24480/252330;58;Geely;sedan;white
+00064/000640;106;Volkswagen;sedan;white
+24973/257198;172;Ford;sedan;gray
+24779/255184;41;Honda;business purpose vehicle/MPV;gray
+07797/080446;111;Bao Jun;sedan;black
+05688/059160;110;Volkswagen;SUV;gray
+06792/070661;137;Toyota;SUV;white
+21249/219030;41;Buick;business purpose vehicle/MPV;black
+25489/262702;14;Volkswagen;sedan;black
+10510/108421;41;Volkswagen;sedan;gray
+20767/213739;34;Ford;SUV;black
+17698/182281;79;Buick;sedan;gray
+28000/287971;139;Volkswagen;sedan;white
+18986/195937;51;Volkswagen;sedan;black
+18662/192855;152;Honda;sedan;black
+20340/209502;51; Citroen;sedan;white
+33408/341170;142;KIA;sedan;white
+02418/024569;78;Modern;sedan;black
+29457/302966;20;Zhongtong;large-sized bus;green
+12642/130709;22;Haima;business purpose vehicle/MPV;gray
+35801/366115;104;Audi;sedan;black
+05513/057259;170;NISSAN;SUV;gray
+35021/358244;106;Volkswagen;sedan;dark gray
+33388/340933;74;Dongfeng Xiaokang;minivan;gray
+06181/064039;170;Mercedes-Benz;sedan;black
+26525/273352;139;Toyota;sedan;black
+23301/240220;81;Buick;sedan;black
+20174/207997;41;Peugeot;sedan;red
+11559/119289;41;Cheryl;sedan;gray
+13255/136890;139;Volkswagen;sedan;black
+38919/398259;106;Jinbei;light passenger vehicle;white
+29374/302218;142;Great Wall;SUV;red
+16372/168982;41;NISSAN;sedan;blue
+22232/229199;41;Ford;sedan;dark gray
+12823/132639;23;Skoda;sedan;brown
+10984/113355;13;Buick;sedan;black
+10273/105882;110;Mercedes-Benz;sedan;black
+18030/185848;139;Audi;sedan;black
+00865/009110;106;Volkswagen;sedan;black
+15001/154628;114;Bao Jun;business purpose vehicle/MPV;white
+38372/392939;23;Volkswagen;sedan;gray
+21736/224079;139;Mercedes-Benz;sedan;white
+19522/201339;101;Toyota;SUV;black
+40244/411750;60;Volkswagen;sedan;black
+31109/319456;78;Lexus ;SUV;black
+33297/340083;114;Toyota;SUV;white
+27912/286950;80;Bao Jun;SUV;white
+07211/074837;101;Bestune;sedan;white
+08747/090267;110;Geely;sedan;white
+34563/353196;110;Buick;business purpose vehicle/MPV;white
+13031/134716;78;Mercedes-Benz;sedan;black
+01739/017921;172;Volkswagen;sedan;white
+06892/071549;78;BMW;sedan;white
+00940/009884;20;Zhongtong;large-sized bus;black
+40334/412665;142;Changan;minivan;green
+19724/203650;139;Ford;sedan;white
+19633/202518;139;BYD;SUV;white
+22961/236904;94;Honda;sedan;black
+19719/203597;19;Harvard;SUV;red
+11483/118538;110;FAW;minivan;gray
+26417/272166;7;Ford;sedan;red
+26605/274094;166;NISSAN;SUV;red
+09087/093662;139;Bao Jun;SUV;white
+18404/189954;139;Jinbei;light passenger vehicle;white
+02087/021245;139;Suzuki;sedan;white
+32775/335188;110;Toyota;SUV;white
+20581/211868;110;Honda;sedan;white
+33731/344465;110;Zotye;sedan;red
+09117/093936;14;Volkswagen;sedan;white
+00890/009310;110;Honda;SUV;white
+25988/267850;170;Toyota;business purpose vehicle/MPV;gray
+24387/251336;139;Audi;SUV;white
+09576/098533;78;Dongfeng Fengxing;business purpose vehicle/MPV;gray
+35754/365587;102;Mazda;sedan;white
+19487/201040;110;Audi;sedan;black
+27845/286253;14;BAIC BJEV;sedan;white
+19322/199267;94;Buick;sedan;black
+16621/171652;170;Wuling;minivan;white
+21413/220722;32;Jing long;large-sized bus;blue
+34881/356659;110;Volkswagen;sedan;green
+03737/038199;78;BMW;sedan;gray
+24231/249784;32;Yutong;large-sized bus;black
+24921/256670;110;Ford;sedan;white
+35288/360790;14;Iveco;large-sized bus;blue
+11387/117476;79;Subaru;sedan;black
+23160/239017;41;Mercedes-Benz;sedan;white
+20599/212058;14;Suzuki;sedan;purple
+36763/375832;172;Wuling;minivan;white
+39088/399733;14;Jinbei;SUV;brown
+36316/371210;35;Geely;sedan;dark gray
+30100/309156;14;Honda;sedan;black
+07262/075288;89;Modern;sedan;white
+09341/096030;78;Mercedes-Benz;SUV;white
+13623/140726;14;Yutong;large-sized bus;black
+00288/003119;26;Old Scooter;large-sized bus;blue
+18055/186090;170;Buick;business purpose vehicle/MPV;gray
+38619/395379;101;Haima;sedan;white
+22346/230289;139;Minitruck; small-sized truck;gray
+22954/236805;61;Volkswagen;sedan;white
+08073/083494;102;Suzuki;sedan;gray
+04948/050977;58;Ford;sedan;gray
+37209/380546;60;Ford;sedan;white
+30654/314815;156;Buick;sedan;gray
+38475/394138;41;Buick;sedan;white
+10770/111044;139;Mercedes-Benz;SUV;black
+28556/293598;166;Volkswagen;sedan;white
+22597/232898;51;Land Rover;SUV;gray
+39138/400176;123;Volkswagen;sedan;white
+40019/409293;137;Buick;sedan;white
+01168/012199;78;Volkswagen;sedan;black
+06418/066478;81;HIGER;large-sized bus;green
+20193/208138;78;Modern;sedan;black
+40212/411453;170;Jiangling;HGV/large truck;white
+22017/227069;14;Changan;minivan;gray
+06928/071830;137;Chrysler;business purpose vehicle/MPV;black
+37443/382878;110;Honda;sedan;red
+24277/250209;106;Toyota;sedan;white
+03389/034522;94;Toyota;SUV;black
+32129/328956;110;Bao Jun;sedan;dark gray
+20111/207390;170;NISSAN;sedan;blue
+35331/361253;23;KIA;sedan;black
+23897/246169;114;Wuling;minivan;gray
+00764/008142;110;BMW;SUV;red
+06324/065478;61;Volkswagen;sedan;black
+38178/390850;137;Mercedes-Benz;sedan;white
+28369/291891;60;Volkswagen;sedan;black
+05921/061554;19;Changan; small-sized truck;dark gray
+39363/402479;27;Ford;sedan;white
+24724/254636;7;Peugeot;sedan;white
+07034/072947;74;NISSAN;SUV;black
+24962/257084;7;KIA;sedan;black
+39359/402453;110;Ford;SUV;black
+29452/302922;78;Suzuki;sedan;gray
+13458/138864;100;NISSAN;sedan;black
+26025/268254;51;Ford;sedan;white
+07536/077808;102;Cheryl;SUV;white
+04194/042927;170;Audi;SUV;white
+00408/004176;170;Buick;sedan;black
+31800/325811;172;Buick;business purpose vehicle/MPV;gray
+19044/196521;41;Chevrolet;sedan;black
+36801/376288;110;Dongfeng Fengxing;business purpose vehicle/MPV;gray
+10689/110089;78;Buick;SUV;red
+29456/302945;22;Peugeot;SUV;black
+30657/314861;110;Roewe;sedan;black
+00554/005779;81;Yutong;large-sized bus;red
+16067/166016;3;Volkswagen;sedan;black
+24142/248899;114;Buick;sedan;red
+32486/332482;34;BMW;SUV;white
+30457/312934;106;NISSAN;sedan;dark gray
+37613/384799;171;Volkswagen;sedan;black
+37466/383133;170;NISSAN;sedan;red
+38100/389992;94;Forland times; small-sized truck;gray
+09688/099717;41;Ford;sedan;white
+39412/402931;170;Buick;sedan;white
+08705/089948;111;Subaru;SUV;black
+38554/394781;110;SAIC MAXUS;business purpose vehicle/MPV;gray
+07067/073336;78;SAIC MAXUS;business purpose vehicle/MPV;white
+18084/186362;79;Volkswagen;sedan;green
+35649/364478;106;Volkswagen;sedan;gray
+27851/286288;78;Volkswagen;sedan;black
+39518/403901;74;Modern;sedan;white
+06981/072438;94; Citroen;sedan;white
+40132/410585;14;Haima;business purpose vehicle/MPV;black
+24540/252942;139;Ford;light passenger vehicle;white
+33281/339865;60;Harvard;SUV;white
+04581/047195;41;Porsche;sedan;white
+06731/070058;14;BYD;sedan;gray
+32040/328122;94;Suzuki;sedan;red
+05925/061620;114;NISSAN;sedan;white
+36904/377302;78;NISSAN;SUV;black
+01227/012849;110;Buick;business purpose vehicle/MPV;black
+27770/285485;110;Volkswagen;sedan;white
+30843/316941;139;Modern;sedan;white
+10597/109213;139;Ford;sedan;white
+01833/018902;106;Volkswagen;sedan;dark gray
+18905/195173;34;Cadillac;sedan;black
+11896/123039;106;Volkswagen;sedan;white
+19583/201923;137;FAW;sedan;white
+12096/125150;170;Kowloon;light passenger vehicle;gray
+13883/143075;151;Changan;sedan;black
+36881/377086;137;Changan;sedan;white
+04922/050748;139;Ford;sedan;gray
+02876/029255;126;Ford;sedan;gray
+22120/228063;90;Toyota;sedan;black
+15679/161728;51;Mercedes-Benz;sedan;black
+03538/036229;111;Wuling;minivan;gray
+34880/356648;110;NISSAN;sedan;gray
+02403/024404;110;Buick;sedan;white
+15605/160988;79;Lexus ;SUV;black
+39702/405763;74;Volkswagen;sedan;black
+09272/095353;170;Modern;SUV;black
+38781/396916;77;Wuling;minivan;dark gray
+07718/079640;102;Roewe;sedan;gray
+10779/111130;110;Ford;light passenger vehicle;white
+35380/361727;110;Honda;sedan;black
+01202/012588;110;Chevrolet;sedan;red
+05758/059924;122;Honda;business purpose vehicle/MPV;gray
+25257/260213;134;Dangerous Goods Transport Vehicles;large-sized bus;blue
+15353/157997;106;Volkswagen;sedan;white
+05623/058431;22;Volkswagen;sedan;white
+03554/036399;170;Honda;sedan;black
+25651/264301;106;Volkswagen;sedan;black
+04896/050490;106;BYD;SUV;white
+19885/205188;77;NISSAN;sedan;white
+13610/140596;170;Volvo;SUV;black
+22298/229870;41;KIA;sedan;dark gray
+18217/187868;74;Honda;SUV;red
+08110/083919;94;Volkswagen;sedan;dark gray
+26293/270825;41;Lexus ;sedan;black
+11861/122711;121;Volkswagen;sedan;gray
+15329/157742;139;KIA;SUV;dark gray
+02654/026901;51;Volkswagen;business purpose vehicle/MPV;dark gray
+18460/190514;41;BMW;sedan;white
+28242/290588;170;Zotye;sedan;blue
+28920/297350;14;Subaru;SUV;white
+20136/207621;78;Toyota;sedan;gray
+15027/154932;79;Volkswagen;sedan;black
+30699/315342;14;JAC;SUV;white
+36869/376929;60;Wuling;minivan;brown
+15533/160050;34;Volkswagen;sedan;white
+30910/317689;51;BYD;sedan;white
+36201/370066;3;Volkswagen;sedan;black
+31635/324340;22;NISSAN;sedan;black
+30659/314891;110; Citroen;sedan;dark gray
+30879/317350;139;Jeep;SUV;white
+31410/322151;106;Forland times; small-sized truck;gray
+06665/069230;41;Honda;sedan;dark gray
+37337/381750;78;Changan;minivan;gray
+11706/121053;51;GAC Motor;sedan;white
+09997/103048;106;Changan;minivan;gray
+17400/179467;74;Land Rover;SUV;gray
+19489/201049;137;Volkswagen;sedan;white
+38791/396998;14;NISSAN;sedan;black
+00579/006013;41;Volkswagen;sedan;black
+13894/143196;14;Great Wall;SUV;white
+31401/322100;61;NISSAN;SUV;black
+07286/075498;114;Volkswagen;sedan;black
+09413/096764;51;Audi;SUV;gray
+25360/261225;41;Toyota;SUV;black
+11167/115090;110;Volkswagen;sedan;black
+07971/082246;137;Volkswagen;sedan;gray
+40242/411740;106;NISSAN;pickup truck;white
+24320/250716;14;Ford;SUV;black
+37909/388010;110;Ford;SUV;dark gray
+03818/039113;102;Volkswagen;sedan;black
+29610/304399;139;Honda;sedan;black
+26723/275370;110;Honda;sedan;black
+37477/383266;170;Mercedes-Benz;sedan;white
+11381/117423;61;Honda;sedan;black
+34758/355456;139;Land Rover;SUV;black
+25222/259918;139;Volkswagen;HGV/large truck;green
+33009/337386;139;Toyota;sedan;black
+08019/082844;163;Honda;sedan;black
+03650/037349;110;Volkswagen;sedan;black
+22013/226981;139;KIA;SUV;black
+02874/029182;41;KIA;sedan;gray
+21465/221302;170;Ford;sedan;white
+33038/337676;139;Changan; small-sized truck;gray
+20658/212610;172;Skoda;sedan;white
+06877/071413;163;Buick;sedan;black
+29464/303065;94;Honda;sedan;black
+27187/279707;61;Jiangling;HGV/large truck;yellow
+22342/230238;90;KIA;sedan;black
+16418/169468;30;Modern;SUV;white
+17622/181697;41;Dongfeng Xiaokang;minivan;gray
+37368/382122;166;TKNG; small-sized truck;gray
+25583/263638;14;Honda;sedan;black
+33002/337337;78;Ford;sedan;dark gray
+35582/363839;114;BYD;sedan;gray
+37946/388399;78;Changan;sedan;white
+13007/134398;139;BMW;SUV;black
+25631/264121;170;Buick;sedan;dark gray
+20678/212829;74;Wuling;minivan;gray
+25602/263825;163;NISSAN;SUV;black
+07984/082390;123;NISSAN;sedan;dark gray
+18119/186729;14;Mazda;sedan;red
+27691/284790;67;BMW;SUV;black
+27433/282190;14;Venucia;sedan;gray
+14560/150183;94;Volkswagen;sedan;black
+00767/008161;114;Audi;sedan;black
+30323/311401;139;Buick;sedan;black
+31770/325510;106;Bao Jun;SUV;black
+02465/024989;79;DODGE;SUV;white
+16009/165335;78;KIA;sedan;white
+08416/087050;170;Ford;sedan;black
+13819/142388;14;Toyota;sedan;white
+30488/313252;61;BAIC Senova;sedan;black
+28171/289771;156;Cadillac;SUV;red
+28854/296550;94;Honda;SUV;dark gray
+00663/007083;34;Suzuki;sedan;blue
+19145/197531;14;BMW;sedan;white
+24248/249927;51;Volkswagen;sedan;gray
+18256/188297;78;Buick;business purpose vehicle/MPV;gray
+24639/253901;110;Modern;sedan;black
+33200/339173;110;Volkswagen;SUV;white
+13996/144298;106;Honda;SUV;red
+05251/054549;102;Changan;sedan;white
+29023/298591;78;Chevrolet;sedan;brown
+13288/137208;94;Modern;sedan;black
+23874/245861;106; Citroen;sedan;gray
+26115/269078;139;Buick;SUV;white
+11868/122782;114;Ford;sedan;white
+40524/414715;137;Audi;sedan;black
+07762/080091;114;KIA;sedan;black
+36044/368319;22;Volkswagen;sedan;white
+24020/247409;155;Yutong;large-sized bus;red
+27828/286077;139;Volkswagen;sedan;black
+38758/396699;41;NISSAN;SUV;white
+27381/281577;37;Volkswagen;sedan;white
+37696/385794;110;JAC;sedan;red
+29695/305150;90;Volkswagen;sedan;white
+25985/267760;61;Buick;sedan;dark gray
+01296/013499;139;Honda;sedan;black
+08969/092370;106;Ford;sedan;dark gray
+35493/362821;139;Volkswagen;sedan;black
+17687/182205;78;Skoda;sedan;red
+11089/114299;106;Volkswagen;sedan;black
+25822/266239;79; Citroen;sedan;gray
+19749/203900;14;Toyota;sedan;white
+17268/177832;74;KIA;SUV;red
+27572/283580;61;Modern;sedan;white
+17600/181463;41;Volkswagen;SUV;dark gray
+30101/309170;22;Land Rover;SUV;black
+24643/253941;14;Modern;sedan;black
+15957/164718;139;Changan;sedan;white
+02647/026804;110;Ford;pickup truck;black
+02343/023785;58;Volkswagen;sedan;black
+31631/324301;110;Wuling;minivan;gray
+26865/276706;139;Ford;sedan;white
+09924/102358;14;Volkswagen;sedan;cyan
+22565/232513;110;MINI;SUV;blue
+15207/156572;170;Volkswagen;sedan;black
+05547/057679;51;Buick;sedan;white
+10727/110512;106;Buick;sedan;white
+12742/131748;78;Skoda;sedan;gray
+18829/194312;102;Audi;sedan;white
+13690/141320;94;Toyota;SUV;black
+04469/045928;34;Cadillac;sedan;white
+05159/053459;7;Buick;sedan;white
+10877/112262;51;Landwind;SUV;gray
+35538/363310;41;Buick;sedan;dark gray
+18736/193517;78;Honda;SUV;white
+15778/162801;41;BMW;sedan;white
+04005/040882;79;NISSAN;SUV;gray
+01011/010601;7;TKNG;HGV/large truck;white
+40321/412531;139;Volkswagen;sedan;black
+13277/137124;14;Volkswagen;sedan;black
+21927/225904;14;Buick;SUV;black
+26792/275915;78;Chevrolet;sedan;white
+40380/413189;169;Modern;sedan;gray
+13468/139005;79;Ford;sedan;gray
+20996/216186;139;Mazda;sedan;red
+26838/276405;78;Changan;minivan;dark gray
+34407/351629;74;Volkswagen;sedan;white
+28110/289142;110;Buick;sedan;gray
+30200/310135;23;Ford;sedan;black
+25002/257471;169;Bestune;SUV;white
+31764/325465;106;Bao Jun;sedan;white
+00623/006534;139;Chevrolet;SUV;red
+13096/135382;171;Changan;sedan;white
+26951/277549;58;Chevrolet;sedan;red
+10609/109329;51;BMW;sedan;white
+36736/375506;139;Wuling;minivan;brown
+02896/029464;41;Buick;sedan;gray
+16199/167231;51;Buick;SUV;white
+14672/151195;170;KIA;sedan;red
+07147/074146;110;Jeep;SUV;black
+09107/093848;14;Volkswagen;SUV;white
+06370/065918;41;Lexus ;SUV;gray
+23920/246385;110;Mazda;sedan;white
+06698/069609;51;BYD;SUV;white
+21160/218081;110;Buick;business purpose vehicle/MPV;black
+21726/223988;110;Buick;business purpose vehicle/MPV;gray
+09662/099431;124;Bestune;SUV;red
+04098/041975;41;Roewe;sedan;dark gray
+25942/267443;139;Mazda;sedan;dark gray
+18307/188852;34;Modern;SUV;black
+37545/384127;39;Buick;business purpose vehicle/MPV;gray
+20047/206692;123;Ford;sedan;yellow
+35206/359917;139;Modern;sedan;white
+02186/022230;61;Ford;sedan;dark gray
+23388/241111;14;Volkswagen;sedan;black
+36413/372337;110;BMW;sedan;black
+01985/020370;110;Changan;sedan;white
+01912/019709;110;Harvard;SUV;white
+36074/368635;78;Toyota;SUV;gray
+03404/034711;161;Yutong;large-sized bus;white
+08851/091282;114;FAW;business purpose vehicle/MPV;gray
+14923/153768;79;Honda;sedan;black
+33769/344836;30;Mercedes-Benz;business purpose vehicle/MPV;black
+34122/348564;139;Buick;SUV;black
+37073/379018;137;Wuling;minivan;dark gray
+26295/270852;34;JAC;SUV;white
+12483/129009;110;Honda;sedan;white
+26568/273750;14;Audi;sedan;gray
+36454/372778;171;Buick;sedan;gray
+10899/112475;110;Peugeot;sedan;red
+04968/051270;139;Ford;sedan;white
+11196/115438;42;Jinbei;light passenger vehicle;black
+21379/220364;41;Volkswagen;SUV;black
+39908/408082;111;Buick;sedan;dark gray
+09697/099862;139;Buick;sedan;dark gray
+07348/076072;110;Buick;sedan;white
+01512/015642;139;Modern;sedan;dark gray
+04062/041485;106;Ford;sedan;black
+38300/392202;15;Southeast Motor;SUV;black
+19037/196430;75;Buick;sedan;brown
+20088/207158;13;Volkswagen;sedan;black
+01488/015435;41;Chevrolet;sedan;white
+39553/404275;106;Volkswagen;SUV;white
+29030/298648;22;NISSAN;SUV;gray
+25630/264095;152;Buick;SUV;dark gray
+12367/127982;78;Kaima; small-sized truck;gray
+02182/022198;137;Mercedes-Benz;sedan;white
+35098/358882;170;Harvard;SUV;black
+20392/210012;15;Volkswagen;SUV;black
+19200/198066;170;Honda;business purpose vehicle/MPV;white
+28998/298308;139;Honda;sedan;black
+13194/136343;102;Zhonghua;SUV;white
+21666/223410;14;Volkswagen;sedan;gray
+32756/334976;139;Changan;minivan;gray
+10346/106568;28;Geely;sedan;white
+18403/189943;110;Volkswagen;sedan;black
+32872/336105;19;Jeep;SUV;black
+18963/195692;139;Buick;sedan;white
+27415/281942;74;Mercedes-Benz;SUV;gray
+32698/334389;81;Volkswagen;sedan;blue
+22679/234025;139;Honda;SUV;white
+17121/176303;14;Jing long;large-sized bus;blue
+06119/063341;142;Volkswagen;sedan;black
+13307/137339;60;Ford;sedan;white
+02094/021304;110;Mercedes-Benz;sedan;black
+17596/181439;139;BMW;sedan;black
+01312/013679;94;Volkswagen;sedan;gray
+34035/347723;170;Volkswagen;sedan;dark gray
+40458/413932;110;Volkswagen;sedan;gray
+06970/072307;78;Volkswagen;sedan;white
+03581/036605;58;Toyota;sedan;black
+18596/191977;111;Bao Jun;sedan;gray
+14627/150831;78;Buick;sedan;gray
+24331/250782;110;Volkswagen;SUV;white
+00808/008565;14;KIA;sedan;black
+21145/217898;100;Lexus ;SUV;black
+23258/239870;102;Harvard;SUV;white
+18379/189658;139;Volkswagen;sedan;white
+26107/269014;170;Venucia;SUV;white
+28292/291132;110;Volkswagen;sedan;black
+13776/141994;61;Changan;minivan;gray
+33117/338453;139;Honda;SUV;white
+30896/317551;41;Chevrolet;sedan;white
+19301/199078;102;FAW;minivan;gray
+16018/165431;22;Buick;sedan;gray
+01569/016229;110;BMW;sedan;black
+13218/136534;110;NISSAN;sedan;gray
+20175/208013;111;Modern;sedan;gray
+12919/133519;110;Volkswagen;sedan;black
+38546/394716;122;Audi;SUV;white
+23212/239497;170;Chevrolet;sedan;gray
+32566/333239;106;BMW;sedan;white
+19335/199409;106;Dongfeng Fengxing;SUV;white
+06715/069879;122;KIA;sedan;white
+03694/037789;110;Volkswagen;sedan;white
+06613/068598;14;NISSAN;sedan;black
+39425/403032;74;Lexus ;SUV;black
+31400/322089;162;SUNWIN;large-sized bus;blue
+00455/004839;110;Peugeot;sedan;black
+13175/136141;78;Volkswagen;sedan;black
+07531/077743;139;Volkswagen;sedan;gray
+34366/351159;114;FAW;sedan;gray
+23741/244658;41;Toyota;sedan;gray
+04121/042219;79;Bestune;sedan;black
+21378/220334;110;Bestune;sedan;black
+14565/150238;14;Buick;business purpose vehicle/MPV;gray
+17144/176531;34;Cadillac;sedan;dark gray
+10867/112121;14;KIA;sedan;white
+39108/399904;94;Subaru;SUV;black
+24528/252780;170;FAW;minivan;gray
+06630/068790;102;Chevrolet;sedan;red
+13999/144353;7;Suzuki;sedan;dark gray
+10640/109680;79;Zotye;sedan;yellow
+35975/367726;51;Leopaard;SUV;gray
+10618/109439;110;Wuling;minivan;gray
+34626/354006;51;BMW;sedan;black
+21084/217233;139;Cadillac;sedan;white
+23617/243416;110;Honda;sedan;white
+38177/390842;137;KIA;sedan;black
+35800/366102;161;Volkswagen;sedan;black
+31784/325636;41;Modern;sedan;white
+04980/051462;41;Buick;sedan;black
+30045/308629;102;Geely;sedan;white
+17031/175401;94;Great Wall;sedan;white
+07116/073840;22;Bestune;SUV;white
+11143/114800;139;Harvard;SUV;white
+19559/201670;3;Volkswagen;sedan;black
+20094/207214;22;Suzuki;sedan;gray
+04003/040868;110;Buick;sedan;black
+04519/046510;78;Volkswagen;sedan;red
+28693/294913;94;Volkswagen;sedan;black
+23353/240769;170;Mercedes-Benz;SUV;black
+07763/080095;139;Jinbei;minivan;gray
+00590/006138;110;Ford;sedan;white
+11133/114736;139; Citroen;sedan;dark gray
+11016/113649;110;Buick;SUV;black
+28018/288156;172;Suzuki;sedan;white
+16588/171311;106;Dongfeng Fengxing;business purpose vehicle/MPV;gray
+15156/156084;162;BAIC Senova;sedan;white
+37192/380393;111;Toyota;sedan;black
+16667/172130;85;Wuling;minivan;white
+18787/193950;123;Modern;sedan;white
+38524/394510;110;Volkswagen;sedan;black
+10074/103897;156;Jaguar;sedan;black
+25089/258557;14;BMW;SUV;black
+11496/118646;111;Volkswagen;sedan;black
+28797/295934;36;SWM Motor;SUV;black
+37453/382993;14;Volkswagen;sedan;green
+36263/370729;122;Mercedes-Benz;sedan;white
+33749/344660;110;Ford;SUV;black
+06220/064488;170;NISSAN;sedan;dark gray
+23600/243308;139;Lexus ;SUV;white
+03214/032656;137;Toyota;sedan;black
+05167/053554;156;Volkswagen;sedan;black
+34155/348928;152;Honda;sedan;white
+00153/001544;170;Toyota;sedan;black
+29809/306283;22;Buick;sedan;dark gray
+22535/232247;139;NISSAN;sedan;black
+15809/163092;51;NISSAN;sedan;dark gray
+06178/064020;74;Zhonghua;SUV;gray
+26604/274083;14;NISSAN;sedan;red
+30686/315179;171;Toyota;SUV;white
+25482/262615;51;Volkswagen;sedan;white
+25308/260723;106;NISSAN;SUV;white
+11686/120836;162;Chevrolet;sedan;black
+39281/401618;14;Wuling;minivan;red
+32331/330918;61;Audi;sedan;black
+05039/052221;109;Jinbei;light passenger vehicle;white
+21357/220121;36;NISSAN;sedan;dark gray
+21327/219738;139;Volkswagen;sedan;yellow
+01893/019563;156;Dongfeng Xiaokang;minivan;white
+36243/370558;139;BYD;sedan;black
+12861/132981;156;Bao Jun;business purpose vehicle/MPV;white
+37745/386276;58;Isuzu;pickup truck;yellow
+09247/095090;139;Chevrolet;sedan;blue
+38603/395229;74;Buick;business purpose vehicle/MPV;black
+15567/160586;170;Modern;sedan;black
+00862/009075;59;Ford;sedan;black
+00451/004778;139;Mercedes-Benz;sedan;black
+00298/003179;110;BMW;sedan;white
+03213/032634;41;BAIC Motor;sedan;gray
+15996/165220;14;Toyota;sedan;white
+07727/079738;14;Volkswagen;sedan;yellow
+35659/364571;46;Honda;SUV;black
+02336/023708;102;Audi;SUV;white
+09365/096258;172;Buick;business purpose vehicle/MPV;dark gray
+08772/090502;7;Buick;sedan;black
+21441/220989;110;SINOTRUK;HGV/large truck;white
+08060/083290;51;Volkswagen;sedan;black
+39812/406981;15;Bao Jun;sedan;white
+37760/386380;110;Mercedes-Benz;SUV;white
+02218/022593;30;Wuling;minivan;gray
+18208/187772;94;Modern;sedan;black
+24661/254080;110;Volkswagen;sedan;black
+40302/412346;61;Audi;sedan;white
+03577/036564;14;NISSAN;sedan;black
+08387/086789;61;Toyota;SUV;black
+06359/065775;18;Harvard;SUV;white
+31649/324495;94;Honda;business purpose vehicle/MPV;white
+05165/053525;166;KIA;sedan;white
+29278/301112;34;NISSAN;sedan;white
+04818/049527;24;BAIC Weiwang;minivan;gray
+08244/085356;14;Buick;sedan;black
+07274/075367;61;Chevrolet;sedan;red
+32857/335936;41;Toyota;sedan;black
+10927/112716;78;Chevrolet;sedan;black
+07558/078009;79;Buick;sedan;gray
+26027/268268;139;Audi;SUV;black
+25048/258018;94;Wuling;minivan;gray
+26583/273918;114; Citroen;sedan;black
+39163/400467;14;Changan;minivan;gray
+36571/373928;94;Chevrolet;sedan;blue
+37989/388884;34;Volkswagen;sedan;black
+10841/111828;51;Volkswagen;sedan;black
+37343/381817;53;Toyota;sedan;gray
+31290/321169;79;Mercedes-Benz;sedan;black
+35586/363875;110;Ford;light passenger vehicle;white
+30248/310631;79;Buick;sedan;gray
+06193/064141;94;Harvard;SUV;white
+24508/252634;137;Buick;sedan;black
+39956/408510;51;Skoda;sedan;black
+12379/128106;139;BMW;SUV;white
+27761/285380;41;Ford;sedan;white
+02406/024439;78;Honda;SUV;white
+00600/006243;172;Modern;sedan;gray
+36567/373849;51;Volkswagen;sedan;gray
+37007/378347;139;BMW;sedan;black
+37380/382236;114;Toyota;SUV;black
+02122/021599;51;Mercedes-Benz;SUV;black
+23493/242121;110;BMW;sedan;black
+21533/222048;137;Ford;sedan;red
+19789/204251;110;Toyota;sedan;black
+15037/155039;79;Buick;business purpose vehicle/MPV;gray
+37455/383033;20;HIGER;large-sized bus;green
+17579/181178;172;Volkswagen;sedan;black
+24090/248307;51;BMW;sedan;white
+34797/355788;106;Audi;SUV;white
+05616/058379;137;Roewe;sedan;dark gray
+37000/378299;90;Harvard;SUV;black
+19991/206170;102;Haima;SUV;black
+09261/095206;14;Honda;sedan;white
+23123/238690;35;Buick;sedan;gray
+30447/312772;170;Volkswagen;sedan;dark gray
+08799/090735;123;Mercedes-Benz;SUV;black
+35715/365129;94;Volkswagen;sedan;gray
+16645/171980;139; Citroen;sedan;white
+17232/177502;139;Toyota;SUV;red
+03365/034269;79;Buick;SUV;white
+12774/132088;89;Jeep;SUV;black
+25028/257776;142;Buick;sedan;gray
+17976/185338;170;Wuling;minivan;gray
+05025/052037;94;Buick;sedan;red
+19478/200960;110;SUNWIN;large-sized bus;green
+23316/240354;139;Chevrolet;sedan;gray
+29563/303961;78;Skoda;sedan;red
+22743/234623;41;Volkswagen;sedan;white
+10291/106029;110;Ford;sedan;white
+05520/057330;172;Great Wall;SUV;red
+38394/393249;14;Mercedes-Benz;business purpose vehicle/MPV;black
+33562/342834;110;Land Rover;SUV;white
+32652/334012;114;NISSAN;sedan;black
+35686/364830;163;Bao Jun;SUV;white
+34474/352248;73;BMW;sedan;white
+23684/244019;163;Chevrolet;sedan;white
+20960/215697;139;Modern;sedan;black
+10069/103835;114;Cadillac;sedan;black
+12111/125316;170;BMW;sedan;white
+08373/086639;18;Volkswagen;sedan;green
+31111/319470;51;Mercedes-Benz;sedan;gray
+14333/147958;78;Volkswagen;sedan;black
+22499/231822;86;Modern;sedan;black
+40090/410087;51;NISSAN;sedan;black
+39498/403713;41;Honda;sedan;blue
+30274/310910;111;Ford;sedan;white
+30402/312389;78;Toyota;sedan;gray
+07375/076403;100;KIA;sedan;dark gray
+14998/154581;139;Toyota;SUV;white
+38768/396794;110;Mercedes-Benz;sedan;black
+31117/319509;110;NISSAN;sedan;black
+10427/107471;170;Chevrolet;sedan;red
+19110/197238;139;Toyota;sedan;black
+08575/088662;106;Changan;SUV;white
+23282/240040;139;Wuling;minivan;brown
+23943/246632;139;Cheryl;sedan;gray
+35068/358642;78;Buick;sedan;white
+07429/076836;94;Harvard;SUV;brown
+33753/344698;41;Buick;sedan;white
+27271/280540;34;Toyota;sedan;gray
+34060/347950;3;Changan;SUV;white
+15879/163989;114;Ford;sedan;white
+37538/384069;60;Volkswagen;sedan;black
+09490/097628;110;Honda;sedan;black
+08165/084554;102;Bao Jun;SUV;red
+29296/301365;170;Wuling;minivan;gray
+19529/201403;78;Chevrolet;sedan;gray
+21176/218250;61;Volvo;SUV;white
+11480/118512;41;NISSAN;sedan;black
+08886/091606;163;FAW;sedan;gray
+06117/063315;139;Volkswagen;sedan;gray
+17020/175323;121;Skoda;sedan;gray
+26899/277044;106;Modern;sedan;white
+34267/350150;156;Buick;sedan;gray
+37793/386823;8;Cheryl;sedan;red
+09825/101257;51;Volkswagen;sedan;white
+06447/066789;50;SUNWIN;large-sized bus;green
+24767/255066;139;Wuling;minivan;gray
+29235/300609;110;Volkswagen;sedan;black
+39795/406787;114;Honda;sedan;black
+04755/048974;94;BMW;sedan;white
+20547/211549;110;Bao Jun;SUV;dark gray
+28116/289248;139;Changan; small-sized truck;gray
+04081/041759;94;Skoda;sedan;black
+37048/378754;139;Volkswagen;SUV;gray
+34518/352769;110;Chevrolet;sedan;red
+32395/331570;34;Toyota;sedan;white
+29725/305460;102; Citroen;sedan;white
+11985/123828;14;Audi;SUV;white
+00595/006200;34;Toyota;sedan;black
+33087/338196;22;Mercedes-Benz;SUV;black
+05999/062367;114;Porsche;sedan;purple
+38115/390187;81;Geely;SUV;white
+39921/408226;34;Volkswagen;sedan;black
+01281/013385;102;Mazda;business purpose vehicle/MPV;black
+07332/075951;102;Buick;sedan;black
+34063/347995;58;Buick;sedan;white
+19034/196402;172;Honda;SUV;gray
+01352/014094;41;Changan;sedan;white
+30069/308898;114;NISSAN;SUV;white
+31363/321790;74;Audi;sedan;black
+27771/285496;41;Audi;SUV;black
+28774/295727;122;Wuling;minivan;gray
+34507/352668;78;Buick;sedan;black
+08449/087339;102;Roewe;sedan;white
+20645/212502;89;Ford;sedan;white
+06635/068871;106;Ford;sedan;white
+32788/335304;110;Honda;sedan;green
+39384/402663;106;Toyota;SUV;black
+18864/194701;22;Zotye;sedan;blue
+40183/411099;106;Changan;minivan;gray
+13918/143453;41;BMW;sedan;white
+22957/236827;14;BMW;sedan;black
+06328/065515;122;BAIC Weiwang;minivan;gray
+09872/101730;139;Suzuki;sedan;red
+08617/089030;14;Volkswagen;sedan;dark gray
+13439/138639;14;Modern;SUV;gray
+34017/347468;22;Buick;business purpose vehicle/MPV;gray
+06714/069872;41;Buick;sedan;black
+06267/064930;53;Ford;sedan;white
+23099/238482;14;Volkswagen;sedan;black
+22869/235918;20;Yutong;large-sized bus;black
+11715/121164;79;Volvo;SUV;black
+39286/401660;122;Buick;sedan;white
+07443/076988;78;Great Wall;sedan;black
+08414/087044;122;MG;sedan;black
+27633/284192;163;Dongfeng Xiaokang;minivan;gray
+19681/203166;51;Mercedes-Benz;sedan;red
+22965/236970;163;Volkswagen;sedan;white
+25240/260048;101;Ford;sedan;black
+19770/204090;94;Volkswagen;SUV;white
+17217/177377;78;Buick;sedan;black
+07656/078959;139;Chevrolet;sedan;purple
+33532/342548;2;NISSAN;sedan;black
+40314/412463;94;Volkswagen;sedan;gray
+21511/221812;34;Suzuki;sedan;blue
+07778/080231;34;Wuling;minivan;white
+30282/310978;139;JAC;light passenger vehicle;gray
+21385/220420;94;Volkswagen;sedan;dark gray
+35337/361323;110;Bao Jun;business purpose vehicle/MPV;white
+13122/135635;139;Honda;SUV;white
+12693/131149;74;Buick;sedan;gray
+17011/175249;110;Honda;SUV;white
+10263/105769;14;Ford;SUV;white
+00730/007740;110;Volkswagen;sedan;black
+17501/180481;79;BMW;SUV;white
+28668/294614;22;Harvard;SUV;white
+00251/002736;122;BAIC Weiwang;minivan;red
+02165/022008;23;Ford;SUV;white
+17724/182533;142;Mazda;sedan;black
+01063/011080;78;Mercedes-Benz;SUV;black
+23132/238774;78;Foton;HGV/large truck;white
+05332/055484;110;Ford;SUV;white
+11536/119050;78;NISSAN;SUV;gray
+19592/202058;106;NISSAN;sedan;red
+23191/239288;94;Changan;minivan;gray
+02253/022899;78;Bao Jun;SUV;white
+34213/349589;110;KIA;sedan;black
+21241/218961;137;Forland times;HGV/large truck;white
+13874/142993;22;Volkswagen;sedan;red
+37472/383213;170;Audi;SUV;gray
+20497/211082;61;Changan;SUV;white
+29767/305840;3;Audi;sedan;black
+06542/067832;41;Chevrolet;sedan;red
+18429/190189;13;Bao Jun;sedan;white
+13868/142955;110; Citroen;sedan;red
+07435/076885;163;Volkswagen;sedan;white
+16276/167968;51;Bestune;sedan;gray
+00810/008587;152;Harvard;SUV;white
+21109/217518;170;BAIC;HGV/large truck;white
+17615/181582;106;Wuling;minivan;gray
+13994/144287;61;Harvard;SUV;white
+38396/393281;156;Roewe;sedan;black
+03917/040094;123;Honda;sedan;red
+34948/357429;61;Bao Jun;SUV;white
+16327/168550;114;Volkswagen;sedan;white
+21350/219984;26;SUNWIN;large-sized bus;green
+32125/328913;137;Ford;sedan;white
+16940/174608;161;Volkswagen;sedan;black
+02149/021870;14;Mazda;sedan;red
+11580/119605;34;Ford;sedan;white
+28464/292688;106;Bao Jun;sedan;red
+01491/015479;78;Volkswagen;sedan;gray
+12741/131739;106;Volkswagen;sedan;gray
+21913/225818;94;Cheryl;SUV;white
+40473/414116;4;Audi;SUV;black
+27902/286846;166;Wuling; small-sized truck;gray
+02364/024034;107;Changan;minivan;dark gray
+18825/194260;51;Volkswagen;sedan;black
+21048/216948;14;Modern;sedan;gray
+07107/073747;170;Volkswagen;sedan;blue
+12882/133205;22;Audi;sedan;black
+29576/304070;172;Peugeot;sedan;black
+12067/124901;139;Modern;sedan;black
+40492/414340;60;Skoda;sedan;black
+36387/372002;139;Volkswagen;sedan;white
+09745/100478;14;Volkswagen;sedan;black
+39193/400792;139;Volkswagen;sedan;cyan
+25927/267335;15;Changan;sedan;red
+03109/031628;14;Bao Jun;business purpose vehicle/MPV;white
+20460/210661;94;Bestune;sedan;dark gray
+36737/375508;78;Mercedes-Benz;business purpose vehicle/MPV;black
+24980/257251;110;KIA;sedan;white
+35974/367707;102;Wuling;minivan;gray
+06322/065461;152;Toyota;SUV;black
+27992/287865;41;Audi;sedan;white
+22046/227366;79;BMW;sedan;black
+04130/042301;170;Buick;sedan;gray
+18472/190650;102;Buick;sedan;black
+13551/139913;137;Honda;SUV;gray
+21162/218100;139;Volkswagen;sedan;white
+27069/278576;78;Suzuki;sedan;gray
+31333/321575;34;Jinbei;light passenger vehicle;white
+27571/283571;139;Volkswagen;sedan;white
+23610/243365;14;Buick;business purpose vehicle/MPV;brown
+20128/207557;156;Buick;sedan;white
+20782/213905;14;Volkswagen;sedan;black
+22443/231367;58;BYD;sedan;white
+30202/310165;106;Cheryl;sedan;red
+03409/034748;139;Ford;sedan;dark gray
+19430/200480;78;BAIC Weiwang;minivan;gray
+32594/333504;139;Cheryl;SUV;black
+09661/099413;110;Foton;pickup truck;yellow
+08819/090942;51;Shaanqi Tongjia;minivan;white
+09571/098501;156;Ford;SUV;black
+26198/269869;110;Changan; small-sized truck;gray
+34404/351537;106;Honda;sedan;gray
+27457/282395;51;Chevrolet;SUV;white
+38537/394620;166;Toyota;SUV;white
+00142/001454;34;Honda;sedan;black
+27507/282843;41;Volkswagen;sedan;gray
+05496/057095;169;Buick;sedan;black
+06589/068314;171;Truck;HGV/large truck;yellow
+01829/018872;67;Volkswagen;sedan;gray
+37176/380184;14;NISSAN;business purpose vehicle/MPV;blue
+09902/102106;170;Volkswagen;sedan;red
+21884/225508;51;SAIC MAXUS;business purpose vehicle/MPV;dark gray
+39903/408030;170;Geely;sedan;white
+36611/374318;78;Honda;sedan;white
+22427/231200;14;Venucia;sedan;white
+06953/072090;51;Toyota;SUV;gray
+17919/184794;34;Modern;sedan;red
+03141/031943;30;BMW;SUV;black
+00029/000266;110;Cadillac;sedan;black
+38316/392355;14;Volkswagen;sedan;gray
+31550/323466;14;Buick;sedan;black
+05510/057222;41;Volkswagen;sedan;white
+23569/242966;94;Ford;sedan;white
+03320/033760;110;Skoda;sedan;black
+12124/125426;79;Volkswagen;sedan;gray
+13516/139539;22;Great Wall;sedan;gray
+05522/057341;114;Buick;sedan;black
+21640/223155;102;Ford;sedan;gray
+32294/330501;106;Audi;sedan;black
+20780/213884;139;Roewe;SUV;black
+28487/292930;139; Citroen;sedan;white
+08189/084824;106;Buick;sedan;black
+01632/016900;41;BMW;sedan;gray
+30390/312260;172;Ford;SUV;brown
+16371/168965;51;Volkswagen;sedan;black
+27216/279976;17;Toyota;SUV;black
+27764/285418;47;Modern;sedan;gray
+28208/290203;14;Volkswagen;sedan;black
+09134/094084;139;Buick;business purpose vehicle/MPV;black
+16370/168960;122;Volkswagen;sedan;black
+34341/350932;110;Cadillac;sedan;white
+13940/143783;61;Buick;sedan;white
+08706/089957;122;Forland times; small-sized truck;gray
+09757/100580;90;Chevrolet;sedan;red
+16184/167135;139;Modern;sedan;gray
+38759/396707;142;FAW;minivan;red
+03680/037660;81;Bestune;sedan;black
+22128/228150;102;Modern;sedan;white
+39957/408525;139;Volkswagen;sedan;black
+09180/094497;139;Wuling;minivan;gray
+12944/133810;110;Audi;SUV;gray
+03470/035402;122;Toyota;sedan;black
+30897/317557;53;Toyota;sedan;black
+18139/186933;61;Ford;sedan;dark gray
+09253/095138;34;Volkswagen;sedan;white
+38774/396835;51;Honda;sedan;white
+20962/215718;79;Volkswagen;sedan;black
+11330/116870;41;Buick;business purpose vehicle/MPV;black
+21517/221856;23;Volkswagen;sedan;black
+09114/093910;114;Volkswagen;sedan;gray
+09824/101237;41;Cadillac;SUV;white
+11136/114754;110;KIA;SUV;dark gray
+06883/071470;3;Volkswagen;sedan;white
+08551/088287;78;Porsche;SUV;black
+34973/357717;51;Volkswagen;SUV;white
+31564/323560;139;Volkswagen;sedan;white
+01311/013668;14;Buick;sedan;black
+33364/340696;139;Volkswagen;sedan;black
+11840/122492;139;FAW;sedan;gray
+21180/218290;139;Ford;sedan;gray
+34781/355683;102;Volkswagen;sedan;black
+33303/340148;14;Cheryl;sedan;white
+04483/046120;110;Volkswagen;sedan;black
+29788/306045;102;ACURA;SUV;gray
+22940/236631;14;Wuling;minivan;gray
+08989/092629;90;Volkswagen;SUV;white
+08825/091059;161;Honda;sedan;black
+21579/222567;51;Roewe;sedan;gray
+12696/131210;61;Mazda;sedan;red
+35463/362564;41;Dongfeng Xiaokang;minivan;gray
+13925/143570;79;Subaru;SUV;black
+06166/063908;170;Honda;business purpose vehicle/MPV;dark gray
+26008/268086;14;Chevrolet;sedan;gray
+09278/095390;94;JAC;light passenger vehicle;gray
+13902/143285;41;KIA;SUV;white
+07237/075073;20;Zhongtong;large-sized bus;gray
+01382/014350;58;Audi;SUV;black
+36958/377917;110;Skoda;sedan;white
+27523/282987;102;Bestune;sedan;black
+27362/281409;78;Volkswagen;SUV;white
+30005/308263;14;BYD;SUV;black
+31983/327611;106;Chevrolet;sedan;blue
+39525/403976;139;Toyota;SUV;black
+30052/308720;114;Peugeot;sedan;yellow
+11601/119927;170;Volkswagen;sedan;black
+30219/310305;101;Honda;sedan;black
+20110/207382;23;Volkswagen;sedan;brown
+23296/240159;14;NISSAN;sedan;white
+15251/157027;104;SUNWIN;HGV/large truck;green
+15613/161062;94;Modern;sedan;white
+02176/022129;110;KIA;SUV;dark gray
+22980/237086;110;Honda;business purpose vehicle/MPV;dark gray
+39144/400250;15;Volkswagen;sedan;gray
+28680/294760;61;Lexus ;sedan;blue
+29122/299518;163;Toyota;sedan;gray
+13471/139037;139;Volkswagen;sedan;black
+13877/143022;79;Bestune;SUV;white
+11758/121620;114;NISSAN;sedan;red
+08667/089526;94;Buick;sedan;white
+20203/208260;61;Ford;sedan;white
+06358/065766;74;Mercedes-Benz;SUV;white
+19618/202338;34;Wuling;minivan;gray
+38150/390532;170;FIAT;sedan;white
+07863/081199;157;Wuling;minivan;gray
+25425/261978;86;Wuling;minivan;gray
+23878/245915;171;Honda;sedan;black
+08813/090894;114;Changan;SUV;white
+01419/014744;110;Peugeot;sedan;gray
+11858/122671;86;Changan;business purpose vehicle/MPV;white
+00197/002181;51;Volvo;sedan;black
+06535/067751;139;Peugeot;sedan;white
+11419/117872;170;KIA;SUV;black
+38208/391175;106;Land Rover;SUV;gray
+33456/341611;114;Volkswagen;sedan;black
+05661/058889;168;Great Wall;sedan;blue
+31849/326218;101;Volkswagen;sedan;black
+08973/092438;78;NISSAN;sedan;white
+18772/193820;61;Volkswagen;sedan;gray
+01106/011541;110;Volkswagen;business purpose vehicle/MPV;black
+10558/108895;139;Chevrolet;sedan;gray
+08100/083822;139;Volkswagen;sedan;gray
+20494/211060;7;Buick;SUV;red
+06616/068628;139;Honda;sedan;black
+03674/037633;106;Forland times;HGV/large truck;white
+23495/242150;170;KIA;SUV;black
+18650/192730;106;Volkswagen;sedan;black
+00665/007102;41;Volvo;SUV;dark gray
+20341/209518;106;Ford;sedan;white
+19456/200742;14;NISSAN;sedan;black
+19846/204848;78;BMW;sedan;black
+23366/240887;106;Toyota;SUV;white
+40332/412638;41;Ford;sedan;black
+22047/227387;170;NISSAN;sedan;black
+07016/072812;94;JAC;SUV;white
+20230/208509;139;Toyota;SUV;black
+04057/041441;106;Ford;sedan;white
+09309/095735;170;NISSAN;sedan;dark gray
+27035/278304;51;Bestune;SUV;white
+02623/026499;156;Cheryl;sedan;white
+38745/396592;169;Ford;SUV;white
+26952/277561;106;Toyota;SUV;white
+24420/251683;139;GAC Motor;SUV;brown
+30546/313726;41;KIA;sedan;white
+25691/264730;14;Buick;sedan;gray
+13771/141965;30;Forland times; small-sized truck;gray
+37170/380096;110;Skoda;sedan;white
+04303/044172;14;Forland times; small-sized truck;gray
+03343/034075;139;Volkswagen;sedan;dark gray
+19115/197284;110;KIA;sedan;white
+12728/131618;94;Toyota;sedan;white
+29940/307639;51; Citroen;sedan;dark gray
+40654/416177;139;Harvard;SUV;dark gray
+33776/344915;139;Modern;sedan;white
+33816/345408;139;Harvard;SUV;red
+21096/217369;14;Volkswagen;sedan;black
+05082/052715;34;Volkswagen;sedan;black
+03771/038580;51;FIAT;sedan;white
+40134/410612;166;Buick;sedan;red
+33617/343402;14;Buick;SUV;white
+26537/273463;58;Modern;sedan;black
+18476/190703;51;Bao Jun;business purpose vehicle/MPV;black
+30070/308906;41;Volkswagen;sedan;black
+23015/237460;79;LUXGEN;SUV;black
+19203/198090;7;NISSAN;sedan;gray
+19809/204387;42;Jing long;large-sized bus;blue
+09546/098299;171;Wuling;minivan;gray
+06508/067462;110;Skoda;sedan;black
+14305/147723;61;Cheryl;SUV;red
+14085/145301;122;Bestune;SUV;gray
+33071/338075;166;Volkswagen;sedan;black
+06157/063755;78;Audi;sedan;black
+30483/313199;139;Great Wall;pickup truck;gray
+37031/378571;51;Toyota;sedan;black
+02005/020509;170;NISSAN;SUV;dark gray
+00256/002798;110;Honda;sedan;black
+09052/093293;90;BMW;SUV;black
+20041/206631;74;Modern;SUV;black
+38820/397270;14;Roewe;sedan;gray
+02492/025205;51;Buick;sedan;gray
+04249/043605;94;Roewe;sedan;gray
+02823/028589;60;Buick;sedan;white
+18968/195744;106;BMW;sedan;white
+03759/038434;41;pickup truck;pickup truck;black
+08686/089756;74;TKNG;HGV/large truck;white
+07440/076960;66;Zotye;sedan;white
+12550/129726;106;Volkswagen;sedan;gray
+20756/213624;169;Forland times;HGV/large truck;white
+22310/229944;172;Volkswagen;sedan;black
+35512/363078;94;Foton;HGV/large truck;white
+00006/000048;78;Cadillac;SUV;white
+03262/033141;170;Ford;sedan;dark gray
+15247/156935;51;JAC;light passenger vehicle;gray
+08503/087832;172;Volkswagen;sedan;blue
+07225/074951;51;Land Rover;SUV;black
+19280/198859;139;Geely;SUV;white
+11393/117520;110;Toyota;sedan;black
+22094/227807;41;Mercedes-Benz;sedan;gray
+38810/397144;133;Buick;sedan;dark gray
+26266/270560;139;Honda;sedan;black
+10186/104867;82;Buick;business purpose vehicle/MPV;white
+40207/411398;14;Mercedes-Benz;SUV;black
+38666/395812;79;Ford;sedan;dark gray
+18901/195117;110;Volvo;sedan;black
+31513/323080;90;Volkswagen;sedan;gray
+11338/116956;67;Honda;sedan;black
+08736/090188;110;Audi;SUV;white
+24631/253826;110;Roewe;sedan;white
+00393/004046;51;Volkswagen;sedan;blue
+06593/068338;51;BYD;sedan;black
+36330/371341;142;Changan;minivan;yellow
+13619/140661;41;Geely;SUV;white
+36168/369679;110;Volkswagen;sedan;black
+04032/041180;78;BYD;sedan;red
+07066/073325;139;Ford;sedan;white
+14118/145709;79;JAC;light passenger vehicle;gray
+34671/354439;68;Buick;sedan;white
+16608/171485;106;Buick;SUV;black
+17499/180429;172;Jeep;SUV;black
+35147/359399;14;Haima;sedan;gray
+07200/074759;106;Honda;SUV;white
+02354/023877;23;Modern;SUV;dark gray
+00527/005548;23;Toyota;sedan;white
+02751/027849;78;Volkswagen;sedan;black
+26799/276029;114;Zhonghua;SUV;red
+16427/169639;78;Audi;SUV;white
+15363/158145;79;NISSAN;sedan;dark gray
+37990/388908;106;Volkswagen;sedan;green
+30391/312282;78;Volkswagen;sedan;white
+36135/369361;41;BMW;sedan;black
+26832/276333;94;Wuling;minivan;white
+39109/399913;40;FAW;sedan;gray
+20664/212669;41;Ford;SUV;black
+03351/034168;102;Mustang;SUV;black
+15616/161093;60;Peugeot;sedan;gray
+24147/248985;122;Audi;sedan;black
+17793/183422;144;Changan;minivan;gray
+26342/271321;26;Dongfeng;pickup truck;white
+23141/238863;110;Jinbei;minivan;gray
+05969/062123;110;Volkswagen;SUV;black
+30367/311988;110;Mercedes-Benz;SUV;black
+13972/144100;110;Volkswagen;sedan;black
+29906/307208;111;Volkswagen;sedan;black
+39159/400451;106;KIA;sedan;white
+06621/068718;79;NISSAN;sedan;black
+18939/195458;51;Honda;sedan;black
+25217/259870;22;Great Wall;SUV;white
+20878/214841;172;Renualt;SUV;white
+15866/163724;110;Audi;SUV;white
+04835/049765;41;Audi;sedan;white
+16139/166701;81;Porsche;SUV;black
+37683/385646;156;Volkswagen;business purpose vehicle/MPV;dark gray
+12942/133780;139;Volkswagen;sedan;white
+08504/087845;7;Honda;sedan;black
+27543/283293;114;KIA;sedan;dark gray
+27785/285658;106;Modern;sedan;black
+21931/225990;170;Changan;sedan;white
+21693/223649;106;Modern;SUV;dark gray
+39798/406817;79;Jiangling;SUV;black
+20813/214247;41;Skoda;sedan;red
+04089/041867;102;Zotye;sedan;dark gray
+37561/384270;122;Toyota;sedan;black
+06504/067416;3;Buick;business purpose vehicle/MPV;black
+25725/265158;139;Modern;SUV;red
+22880/236024;114;Volvo;sedan;blue
+27909/286929;139;Honda;sedan;white
+10246/105508;106;Volkswagen;sedan;gray
+02625/026521;114;Ford;sedan;white
+39171/400529;23;Volkswagen;sedan;black
+17920/184815;14;Honda;sedan;blue
+17935/184940;139;Modern;sedan;gray
+35737/365454;137;NISSAN;business purpose vehicle/MPV;gray
+27875/286525;41;Modern;sedan;gray
+11736/121332;123;Kaima; small-sized truck;green
+12591/130180;79;Honda;sedan;black
+28121/289274;20;Yutong;large-sized bus;red
+12536/129577;139;Leopaard;SUV;black
+14270/147333;156;NISSAN;SUV;red
+21455/221157;110;Cheryl;SUV;black
+09620/099026;166;Harvard;SUV;black
+19339/199452;81;Porsche;sedan;black
+12219/126391;139;Changan;sedan;white
+28826/296227;114;Ford;sedan;white
+08871/091493;162;Chevrolet;sedan;white
+34981/357813;14;Ford;SUV;white
+09841/101398;139;JAC;SUV;white
+15893/164087;139;Honda;sedan;black
+12275/126979;123;Honda;sedan;black
+12165/125807;47;BAIC Weiwang;minivan;white
+39755/406309;14;Audi;SUV;black
+02729/027632;110;Ford;SUV;white
+22378/230605;170;Toyota;sedan;black
+17679/182142;139;Jeep;SUV;black
+03476/035484;41;Volkswagen;sedan;black
+15450/159148;7;Bao Jun;SUV;white
+12810/132499;78;Cadillac;SUV;black
+04477/046062;110;NISSAN;sedan;white
+17934/184934;114;Wuling;minivan;gray
+22739/234588;78;Buick;sedan;black
+15804/163028;7;Buick;sedan;black
+39732/406035;110;SUNWIN;large-sized bus;green
+33452/341570;41;Volkswagen;sedan;black
+21466/221313;102;MG;sedan;white
+06554/067939;139;Geely;SUV;white
+34467/352178;78;Mercedes-Benz;business purpose vehicle/MPV;black
+25692/264735;166;Buick;sedan;white
+32396/331579;23;BMW;sedan;white
+11146/114830;14;KIA;SUV;white
+16007/165303;51;NISSAN;sedan;dark gray
+07814/080598;41;BMW;sedan;gray
+40295/412276;78;Lexus ;SUV;black
+28949/297718;139;Ford;SUV;black
+37471/383198;110;Volkswagen;SUV;black
+20795/214018;94;FAW;sedan;gray
+28384/292038;14;Buick;sedan;red
+03277/033314;78;Volkswagen;sedan;dark gray
+14819/152603;51;JAC;sedan;black
+02750/027841;122;Wuling;minivan;gray
+10657/109800;14;Volkswagen;sedan;black
+33025/337528;111;Volkswagen;sedan;black
+23266/239916;114;Mitsubishi;sedan;red
+32990/337218;156;Volkswagen;sedan;black
+19384/200035;171;JAC;light passenger vehicle;gray
+02706/027398;170;BMW;SUV;black
+33750/344667;20;Toyota;business purpose vehicle/MPV;white
+16559/170964;78;Volkswagen;sedan;white
+21575/222520;106;GAC Motor;SUV;black
+19233/198361;170;Audi;sedan;black
+13990/144254;94;Volkswagen;sedan;white
+02160/021946;156;Toyota;SUV;black
+26077/268713;110;Modern;sedan;white
+20163/207900;34;Buick;sedan;red
+18329/189135;122;Buick;business purpose vehicle/MPV;black
+07406/076630;110;Honda;sedan;white
+11556/119250;94;Cadillac;sedan;white
+03235/032861;79;Dongfeng Xiaokang;minivan;gray
+06404/066280;171;Skoda;SUV;white
+34734/355236;61; Citroen;sedan;white
+25709/264932;100;Ford;sedan;red
+12815/132559;156;Mercedes-Benz;sedan;white
+06734/070078;39;Mercedes-Benz;SUV;black
+37169/380074;22;Volkswagen;sedan;white
+21764/224398;78;Changan;SUV;white
+11324/116776;110;BAIC Weiwang;minivan;gray
+11039/113917;40;Volkswagen;sedan;black
+17231/177494;61;Buick;sedan;black
+06577/068208;106;Volkswagen;sedan;black
+21105/217490;41;Ford;sedan;white
+25870/266689;139;Volkswagen;sedan;black
+18416/190077;102;BYD;sedan;white
+05182/053769;169;Cadillac;sedan;red
+20948/215558;94;Volkswagen;sedan;white
+15990/165141;26;Toyota;SUV;black
+16712/172512;122;Volkswagen;sedan;white
+17403/179520;13;Harvard;SUV;black
+18863/194659;139;NISSAN;sedan;black
+18827/194291;137;Volkswagen;sedan;gray
+25685/264648;78;KIA;sedan;dark gray
+14506/149690;78;Buick;sedan;gray
+22875/235981;139;Cheryl;sedan;gray
+34211/349580;60;Dongfeng scenery;minivan;white
+20783/213916;114;Chevrolet;sedan;white
+04927/050798;137;GAC Motor;SUV;white
+29800/306160;79;Volkswagen;sedan;white
+17503/180522;152;Geely;sedan;gray
+02216/022518;78;Mercedes-Benz;sedan;black
+21221/218764;37;NISSAN;sedan;black
+24554/253086;101;Volkswagen;sedan;white
+02065/021094;171;GAC Motor;SUV;black
+02928/029749;58;Honda;sedan;gray
+18341/189233;139;Buick;business purpose vehicle/MPV;gray
+17161/176772;94;Great Wall;pickup truck;yellow
+05835/060664;94;Honda;sedan;red
+28399/292229;110;Ford;sedan;gray
+31646/324449;33;Ford;sedan;white
+31419/322258;152; Citroen;sedan;white
+01557/016117;102;Changan;minivan;white
+00127/001269;30;Iveco;light passenger vehicle;white
+10250/105536;14;Roewe;sedan;gray
+19277/198810;14;Volkswagen;SUV;gray
+15288/157403;170;Buick;sedan;black
+32879/336147;41;Chevrolet;sedan;white
+08435/087213;169;Buick;sedan;gray
+02851/028927;139;Wuling;minivan;gray
+20723/213336;94;Volkswagen;sedan;gray
+05769/060000;14;Volkswagen;sedan;blue
+13383/138095;169;Chevrolet;sedan;black
+14237/147001;42;Iveco;light passenger vehicle;white
+11486/118567;114;Southeast Motor;sedan;white
+37885/387802;3;Modern;sedan;white
+02435/024725;139;Ford;sedan;white
+38826/397353;41;Honda;sedan;black
+38639/395566;81;HIGER;large-sized bus;green
+28113/289186;90;Volkswagen;sedan;black
+27189/279749;110;Ford;SUV;white
+23166/239075;170;JAC;SUV;black
+00286/003108;110;Mercedes-Benz;sedan;white
+22922/236430;78;MINI;SUV;black
+36733/375472;73;SUNWIN;large-sized bus;green
+15566/160579;78;Audi;SUV;black
+22816/235390;161;Buick;sedan;white
+39741/406134;139;Volkswagen;sedan;gray
+20972/215879;41;Volkswagen;sedan;black
+19597/202099;139;Toyota;sedan;gray
+22417/231108;139;JAC;sedan;gray
+09539/098236;94;Modern;sedan;white
+35202/359889;106;Roewe;sedan;black
+26455/272647;110;Volkswagen;sedan;white
+12958/133964;110;FIAT;sedan;white
+30597/314288;106;Volkswagen;sedan;black
+33185/339047;14;Peugeot;sedan;black
+02577/026064;78;Roewe;SUV;white
+27638/284229;60;Volkswagen;sedan;gray
+29362/302063;51;Audi;sedan;black
+23830/245376;39;NISSAN;sedan;dark gray
+28302/291268;22;Honda;business purpose vehicle/MPV;black
+03969/040587;122;Bestune;sedan;black
+00302/003216;137;Honda;business purpose vehicle/MPV;black
+15642/161401;137;GAC Motor;SUV;white
+12325/127535;139;Modern;sedan;black
+00271/002967;106; Citroen;SUV;red
+23507/242301;110;Land Rover;SUV;black
+39771/406527;170;Honda;SUV;black
+05863/060912;139;Ford;sedan;red
+21172/218197;74;Buick;sedan;black
+40570/415202;139; Citroen;sedan;gray
+22004/226878;14;Volkswagen;sedan;gray
+25443/262239;86;NISSAN;sedan;white
+05392/055970;78;Cheryl;sedan;blue
+27643/284295;51;Chevrolet;SUV;dark gray
+17967/185189;14;Volkswagen;sedan;black
+20040/206622;170;Southeast Motor;SUV;white
+27420/281986;111;Volkswagen;sedan;black
+08223/085179;94;Volkswagen;sedan;black
+36609/374307;61;BMW;sedan;white
+33999/347245;22;Volkswagen;sedan;dark gray
+23474/241933;110;BMW;sedan;white
+31842/326159;110;Bestune;sedan;black
+36385/371985;110;Audi;sedan;black
+08809/090849;78;Changan;minivan;gray
+15721/162232;110;Buick;sedan;white
+31541/323380;101;Toyota;minibus;white
+14001/144364;34;Bestune;sedan;black
+11162/115018;14;Toyota;sedan;gray
+07162/074298;74;Volkswagen;sedan;white
+37982/388788;170;Geely;sedan;white
+16448/169857;170;Volkswagen;sedan;black
+27292/280826;41;Ford;sedan;gray
+05865/060958;110;KIA;sedan;white
+15806/163062;114;Buick;SUV;white
+33621/343428;78;Ford;sedan;white
+01027/010750;114;Toyota;sedan;black
+14471/149406;41;Modern;sedan;gray
+09544/098289;41;Chevrolet;sedan;dark gray
+21512/221829;110;Toyota;sedan;black
+28376/291965;7;Audi;SUV;gray
+19880/205150;41;KIA;SUV;black
+02799/028318;94;Honda;SUV;white
+30287/311030;22;Volkswagen;sedan;black
+19988/206144;106;Honda;SUV;white
+25750/265391;15;pickup truck;pickup truck;black
+31658/324579;14;JAC;light passenger vehicle;white
+29577/304076;110;Buick;business purpose vehicle/MPV;blue
+13250/136851;41;Cadillac;sedan;black
+26507/273207;110;Ford;sedan;gray
+03614/036902;38;Buick;sedan;white
+27042/278358;14;Modern;SUV;white
+17136/176474;14;Volkswagen;sedan;green
+02154/021901;110;Ford;sedan;white
+24714/254487;79;Modern;SUV;black
+18475/190664;41;Volkswagen;sedan;black
+36757/375748;81;HIGER;large-sized bus;green
+11789/122027;139;Volkswagen;sedan;dark gray
+14814/152569;42;Buick;sedan;gray
+01655/017128;139;KIA;SUV;black
+00914/009614;110;Volkswagen;sedan;black
+16051/165837;147;Modern;sedan;black
+17487/180348;74;BMW;sedan;black
+04972/051374;78;Jinbei;light passenger vehicle;gray
+19019/196220;94;Volkswagen;sedan;red
+04950/050999;170;Great Wall;sedan;white
+08924/091923;81;Ford;SUV;white
+25880/266794;110;Jinbei;minivan;gray
+10168/104687;114;GAC Motor;SUV;black
+40564/415159;172;FAW;SUV;white
+10579/109084;169;Wuling;minivan;gray
+15792/162917;14;Volkswagen;sedan;gray
+12119/125387;14;Wuling;minivan;gray
+10368/106818;20;Zhongtong;large-sized bus;blue
+23443/241652;102;Volvo;SUV;black
+34553/353083;170;Modern;sedan;black
+26747/275518;15;Bao Jun;business purpose vehicle/MPV;brown
+00261/002847;111;Modern;sedan;white
+17658/181935;106;Wuling;minivan;gray
+06302/065270;68;Audi;sedan;black
+11075/114190;139;Buick;SUV;black
+38260/391748;139;NISSAN;sedan;dark gray
+05893/061322;73;KIA;sedan;white
+15994/165181;79;NISSAN;sedan;black
+37569/384347;60;Infiniti;SUV;brown
+25191/259521;106;Jaguar;sedan;black
+38787/396963;14;Modern;SUV;black
+08204/084976;41;bulk lorry;bulk lorry/fence truck;white
+27100/278951;106;Volkswagen;sedan;black
+35294/360867;102;Dongfeng Fengxing;business purpose vehicle/MPV;dark gray
+14872/153166;170;FAW;sedan;gray
+09367/096298;139;Ford;SUV;white
+18589/191931;41;Wuling;minivan;gray
+20525/211370;139;Volkswagen;SUV;gray
+13398/138257;110;Buick;sedan;black
+00162/001692;110;Ford;sedan;white
+13843/142659;172;Honda;sedan;black
+37070/378949;110;Ford;SUV;black
+19645/202635;14;Zhongtong;large-sized bus;black
+34360/351089;139;FAW;minivan;gray
+05429/056414;110;Buick;business purpose vehicle/MPV;gray
+24710/254469;51;Renualt;SUV;white
+18503/191050;22;Modern;sedan;white
+03305/033532;30;NISSAN;SUV;gray
+04025/041120;139;Mazda;business purpose vehicle/MPV;black
+14808/152509;139;Volkswagen;sedan;black
+14776/152279;110;Modern;sedan;white
+38243/391500;139;Jinbei;business purpose vehicle/MPV;white
+23884/245959;23;Volkswagen;sedan;black
+27971/287612;7;BMW;sedan;white
+22795/235178;51;NISSAN;sedan;yellow
+39823/407116;114;Volkswagen;sedan;white
+30683/315140;170;Ford;sedan;dark gray
+26813/276162;78;Bao Jun;SUV;white
+31776/325565;139;Toyota;SUV;white
+05058/052452;14;Toyota;SUV;white
+14736/151915;129;Volvo;sedan;blue
+21596/222765;163;Dongfeng Fengshen;SUV;white
+12749/131799;94;Chevrolet;sedan;white
+16899/174219;110;Modern;sedan;black
+22469/231581;41;Volkswagen;sedan;gray
+26424/272306;78;Toyota;sedan;black
+40491/414331;14;Volkswagen;sedan;black
+13094/135346;110;Volvo;sedan;dark gray
+16492/170253;139;Southeast Motor;sedan;black
+39235/401171;94;Peugeot;sedan;red
+01343/013990;106;Ford;sedan;white
+31138/319694;90;Bao Jun;sedan;red
+21964/226482;114;Mercedes-Benz;sedan;black
+10659/109808;123;Ford;sedan;white
+15035/155021;92;Mercedes-Benz;SUV;black
+30576/314068;114;Buick;sedan;white
+16453/169905;41;Skoda;sedan;white
+16776/173097;79;Modern;sedan;black
+08160/084523;39;Wuling;minivan;gray
+14128/145812;122;Wuling;minivan;gray
+33148/338732;51;Volkswagen;sedan;gray
+37142/379836;110;Haima;business purpose vehicle/MPV;black
+39050/399379;41;Honda;sedan;black
+29632/304586;20;Toyota;HGV/large truck;white
+24475/252252;139;Toyota;minibus;gray
+13224/136581;118;Volkswagen;sedan;white
+01056/011020;51;Great Wall;sedan;gray
+27881/286578;139;Harvard;SUV;black
+24272/250168;126;Volkswagen;sedan;dark gray
+27217/280008;106;Buick;sedan;white
+28054/288541;14;Geely;sedan;white
+25744/265340;110;Volkswagen;sedan;white
+15355/158017;110;Volkswagen;sedan;white
+16793/173267;137;Honda;sedan;black
+24798/255381;101;Buick;business purpose vehicle/MPV;black
+19337/199436;110;Honda;business purpose vehicle/MPV;gray
+36572/373940;110;Chevrolet;SUV;black
+05940/061796;139;Harvard;SUV;black
+21305/219473;41;Modern;SUV;dark gray
+19638/202593;114;Southeast Motor;sedan;black
+16886/174042;34;Honda;sedan;black
+25100/258667;139;KIA;sedan;white
+19850/204884;94;Ford;sedan;white
+11412/117777;14;Volkswagen;sedan;blue
+17746/182889;139;Wuling;minivan;gray
+06678/069319;71;Yutong;large-sized bus;blue
+11093/114361;166;Honda;business purpose vehicle/MPV;white
+27582/283656;110;Suzuki;sedan;white
+15370/158199;41;Great Wall;sedan;black
+12286/127082;34;Toyota;SUV;white
+10502/108269;77;Zotye;sedan;blue
+04905/050584;61;Suzuki;sedan;white
+17494/180391;94;FAW;sedan;gray
+15934/164437;79;Volkswagen;sedan;dark gray
+19404/200196;37;Wuling;minivan;gray
+18532/191278;169;Volkswagen;sedan;dark gray
+09886/101886;14;TKNG; small-sized truck;white
+33864/345863;170;Buick;sedan;gray
+07704/079464;14;Wuling;minivan;gray
+40186/411151;101;Volkswagen;sedan;dark gray
+14335/147978;139;Geely;sedan;white
+28134/289368;157;JAC;SUV;dark gray
+22185/228705;78;NISSAN;sedan;gray
+35087/358819;170;Volkswagen;sedan;white
+05412/056236;170;Volkswagen;sedan;gray
+08335/086318;81;Mercedes-Benz;sedan;blue
+38614/395333;14;Buick;sedan;black
+40247/411783;51;NISSAN;sedan;black
+08493/087722;139;Modern;sedan;gray
+03964/040525;114;Dongfeng Xiaokang;minivan;gray
+08115/084011;170;NISSAN;sedan;black
+02916/029633;172;Harvard;SUV;dark gray
+39488/403615;139;NISSAN;sedan;black
+11728/121263;90;Honda;business purpose vehicle/MPV;dark gray
+31526/323211;170;Buick;sedan;black
+18721/193344;139;Toyota;sedan;dark gray
+00762/008121;110;Lexus ;sedan;black
+06959/072188;137;Wuling;minivan;gray
+31922/326876;94;Toyota;SUV;white
+16391/169196;139;Dongfeng Xiaokang;minivan;gray
+11600/119902;86;Volkswagen;sedan;black
+24823/255714;124;Volkswagen;sedan;white
+10628/109532;106;Skoda;sedan;black
+01395/014558;14;Wuling;minivan;gray
+18286/188601;172;Ford;sedan;white
+36234/370481;60;Harvard;SUV;white
+15362/158138;14;Toyota;sedan;gray
+36270/370772;111;BYD;sedan;gray
+02091/021270;41;Lexus ;SUV;gray
+40258/411930;78;Jeep;SUV;black
+21954/226250;170;Hafei Auto;minivan;gray
+12856/132945;114;Changan;minivan;white
+15181/156358;110;Changan;minivan;gray
+26480/272910;101;Volkswagen;sedan;dark gray
+37399/382418;114;Volkswagen;sedan;cyan
+19570/201786;23;Jeep;SUV;white
+19403/200192;14;Toyota;SUV;black
+34807/355881;90;Audi;sedan;white
+36998/378277;22;Buick;sedan;gray
+30701/315368;110;Wuling;minivan;gray
+08565/088547;94;Buick;business purpose vehicle/MPV;blue
+31088/319243;110;NISSAN;SUV;dark gray
+27125/279149;137;Dongfeng Xiaokang;minivan;gray
+17784/183332;110;BMW;SUV;dark gray
+14421/148849;14;Ford;sedan;white
+08863/091431;106;Volkswagen;sedan;black
+12850/132901;74;Buick;business purpose vehicle/MPV;gray
+21041/216878;110;Toyota;SUV;white
+24815/255598;89;Volkswagen;sedan;dark gray
+32267/330270;77;Cheryl;sedan;white
+04100/042010;106;Buick;SUV;dark gray
+32479/332356;51;Mercedes-Benz;sedan;white
+36486/373131;94;Chevrolet;sedan;white
+20871/214759;79;Land Rover;SUV;white
+30118/309387;139;Ford;SUV;dark gray
+22611/233077;106;Toyota;sedan;gray
+32671/334164;139;Toyota;sedan;white
+11342/116996;61;Changan;sedan;white
+18624/192473;34;Harvard;SUV;gray
+35085/358785;110;BYD;sedan;black
+39546/404204;74;Ford;sedan;white
+05917/061524;41;Toyota;sedan;gray
+38082/389826;139;Volkswagen;SUV;black
+16601/171414;79;Buick;business purpose vehicle/MPV;dark gray
+10644/109723;139;Volkswagen;sedan;white
+12863/132998;14;Changan;sedan;white
+07323/075886;110;Volkswagen;sedan;black
+30572/314002;7;Volkswagen;sedan;black
+31470/322734;4;Modern;SUV;dark gray
+09263/095237;14;BAIC Motor;sedan;black
+13346/137704;106;Volkswagen;sedan;white
+17772/183219;110;Buick;sedan;dark gray
+13633/140809;170;Modern;sedan;gray
+22619/233216;60;Peugeot;sedan;white
+35150/359427;163;Ford;sedan;dark gray
+17664/182001;110;Mazda;sedan;black
+23911/246266;102;Changan;sedan;red
+14977/154369;14;NISSAN;sedan;dark gray
+10344/106542;121;Buick;sedan;black
+35409/362089;139;Honda;SUV;white
+12292/127165;111;Roewe;sedan;white
+38415/393453;137;KIA;sedan;blue
+01009/010591;139;Buick;sedan;black
+23860/245689;170;Land Rover;SUV;red
+17295/178150;15;Volkswagen;sedan;blue
+04151/042567;156;NISSAN;SUV;white
+11475/118462;75;Buick;sedan;dark gray
+24414/251600;172;Ford;SUV;white
+07812/080576;126;Changan;sedan;red
+33379/340829;94;JAC;sedan;black
+22506/231877;137;Haima;business purpose vehicle/MPV;gray
+17670/182039;110;EVERUS;sedan;gray
+12865/133018;79;Volkswagen;sedan;white
+36047/368373;110;Buick;business purpose vehicle/MPV;black
+23055/238075;110;Bestune;sedan;gray
+24918/256649;14;Buick;business purpose vehicle/MPV;white
+13248/136822;172;BAIC Senova;SUV;white
+35521/363149;139;Ford;sedan;black
+39223/401070;110;Toyota;sedan;white
+18032/185863;106;Ford;sedan;gray
+09416/096829;20;Zhongtong;large-sized bus;black
+23513/242367;106;Volkswagen;sedan;gray
+39378/402618;110;Subaru;SUV;blue
+07691/079318;94;Volkswagen;sedan;black
+36788/376077;110;Volkswagen;sedan;white
+26363/271488;23;Renualt;SUV;white
+20867/214711;61;BAIC Weiwang;minivan;gray
+13370/137982;166;Mazda;sedan;black
+06262/064884;137;Geely;SUV;white
+05345/055585;139;Volkswagen;SUV;dark gray
+39597/404689;110;Modern;SUV;dark gray
+16059/165934;114;Volkswagen;sedan;white
+39020/399095;41;Jeep;SUV;white
+06580/068242;101;Volvo;SUV;dark gray
+09115/093924;79;Volkswagen;sedan;black
+01315/013723;139;BMW;sedan;black
+29040/298770;110; Citroen;sedan;black
+01962/020160;151;Wuling;minivan;gray
+36027/368199;170;Audi;SUV;black
+04716/048507;110;Toyota;SUV;white
+03701/037866;79;Audi;sedan;black
+00187/002035;163;Porsche;SUV;black
+07307/075668;110;Bao Jun;SUV;black
+40048/409643;139;Volkswagen;sedan;white
+22923/236441;161;Audi;SUV;black
+24161/249119;7;Toyota;sedan;blue
+37391/382324;139;Changan;minivan;gray
+10503/108287;152;Volkswagen;business purpose vehicle/MPV;dark gray
+23677/243953;41;Buick;SUV;dark gray
+10274/105891;41;BAIC Weiwang;minivan;black
+01585/016355;94;KIA;sedan;white
+32101/328670;110;Ford;sedan;black
+19667/202984;14;Geely;SUV;white
+19022/196240;172;Ford;sedan;white
+19087/197030;90;Audi;sedan;white
+11241/115887;94;Peugeot;SUV;black
+37178/380249;170;Modern;sedan;black
+22959/236880;51;Honda;SUV;white
+29272/301055;59;Volkswagen;sedan;black
+22410/231018;51;Buick;sedan;black
+26252/270450;106;NISSAN;sedan;black
+31467/322689;94;Forland times; small-sized truck;gray
+33939/346632;94;Buick;business purpose vehicle/MPV;gray
+27363/281421;79;Volkswagen;SUV;white
+00308/003274;109;Southeast Motor;light passenger vehicle;white
+22686/234087;110;Cheryl;sedan;black
+12844/132830;14;Volkswagen;sedan;black
+04507/046387;110;BMW;sedan;gray
+07136/074001;14;Ford;light passenger vehicle;red
+11168/115106;170;Jaguar;sedan;black
+04424/045395;78;Mercedes-Benz;SUV;black
+05062/052496;139;Audi;SUV;dark gray
+11118/114569;34;Honda;sedan;black
+09397/096636;60;Volkswagen;sedan;black
+36100/368935;78;Modern;sedan;black
+33462/341663;23;Mercedes-Benz;sedan;red
+04825/049584;111;NISSAN;sedan;dark gray
+17811/183639;86;Toyota;sedan;black
+37865/387631;78;Wuling;minivan;gray
+01693/017486;51;Ford;sedan;white
+34491/352468;14;Buick;sedan;black
+30745/315812;14;Changan;minivan;gray
+28209/290209;81;Jing long;large-sized bus;blue
+38648/395638;110;Volkswagen;sedan;black
+34254/350019;78;Audi;SUV;black
+07671/079100;94;Volkswagen;sedan;black
+06329/065522;139;Volkswagen;sedan;black
+05786/060181;139;NISSAN;sedan;black
+24999/257417;51;Audi;sedan;black
+09680/099628;82;BMW;sedan;white
+14741/151964;102;Ford;sedan;blue
+10017/103246;110;BYD;sedan;white
+38638/395548;89;Wuling;minivan;gray
+36492/373200;7;Buick;sedan;black
+25798/265973;137;Mazda;SUV;white
+30644/314709;110;Volkswagen;sedan;dark gray
+06636/068888;110;Volkswagen;sedan;green
+22104/227919;94;Volkswagen;sedan;red
+07144/074085;109;Mercedes-Benz;sedan;black
+04204/043050;156;Buick;SUV;white
+29268/300995;172;Wuzheng;HGV/large truck;white
+11438/118048;110;NISSAN;sedan;gray
+07791/080381;110;NISSAN;sedan;dark gray
+34804/355849;89;Ford;light passenger vehicle;white
+40213/411462;14;Chevrolet;sedan;blue
+22192/228758;152;Harvard;SUV;white
+33394/341004;51;Peugeot;sedan;white
+23408/241300;110;Porsche;SUV;gray
+12814/132541;41;Mercedes-Benz;SUV;white
+02582/026110;169;Cheryl;sedan;dark gray
+12265/126871;139;Buick;sedan;black
+29322/301594;7;Buick;sedan;white
+08398/086890;110;NISSAN;sedan;black
+38474/394129;41;Jiangling;pickup truck;black
+22770/234908;17;Audi;sedan;black
+03877/039668;162;Modern;sedan;gray
+26932/277388;110;BMW;sedan;black
+08996/092714;139;Ford;sedan;black
+31122/319552;163;Buick;business purpose vehicle/MPV;black
+25359/261211;60; Citroen;sedan;dark gray
+34656/354311;41;Volkswagen;sedan;black
+19274/198783;41;Toyota;sedan;gray
+04965/051190;78;Mazda;sedan;gray
+10740/110629;74;Suzuki;SUV;black
+31514/323088;139;Honda;sedan;black
+32973/337030;137;Harvard;SUV;white
+08789/090656;111;NISSAN;sedan;dark gray
+32942/336712;58;Volkswagen;sedan;black
+07561/078032;94;Honda;SUV;white
+38606/395265;58;Harvard;sedan;blue
+05629/058469;170;Volkswagen;sedan;white
+13897/143220;20;Zhongtong;large-sized bus;green
+06297/065210;139;Honda;sedan;white
+03605/036832;68;Volkswagen;sedan;gray
+16921/174424;139;Volkswagen;sedan;black
+35651/364492;106;Buick;sedan;black
+13611/140607;51;Volkswagen;SUV;white
+39216/401000;106;Chevrolet;sedan;red
+05362/055707;94;Jiangling;pickup truck;black
+22663/233727;51;Toyota;sedan;black
+17762/183136;3;Volkswagen;sedan;dark gray
+20696/213090;170;Toyota;sedan;black
+10360/106689;122;Suzuki;sedan;white
+11614/120018;110;Buick;sedan;red
+13131/135728;166;Modern;sedan;white
+04216/043191;7;Cheryl;SUV;white
+22981/237095;137;BMW;SUV;black
+19347/199598;14;Audi;sedan;white
+21609/222890;14;Ford;sedan;yellow
+05850/060790;94;NISSAN;sedan;black
+17733/182681;14;KIA;sedan;gray
+16128/166586;74;Buick;sedan;black
+11817/122254;139; Citroen;sedan;white
+40057/409748;30;Wuling; small-sized truck;gray
+10392/107097;114;Volkswagen;sedan;black
+16050/165826;126;NISSAN;sedan;gray
+00452/004811;41;Skoda;sedan;dark gray
+38011/389178;139;Cadillac;SUV;white
+36923/377485;114;Wuling;minivan;white
+15554/160474;170;Volkswagen;sedan;gray
+01695/017510;139;Volkswagen;sedan;gray
+21531/222031;139;Dongfeng scenery;minivan;white
+13262/136963;110;Bestune;sedan;black
+35125/359172;139;Ford;sedan;dark gray
+23696/244123;171;Forland times;HGV/large truck;blue
+40102/410212;163;Volkswagen;sedan;dark gray
+37695/385758;110;Audi;sedan;gray
+27211/279934;110;Volkswagen;sedan;white
+01792/018511;78;KIA;sedan;gray
+23704/244194;94;Volkswagen;sedan;blue
+14384/148454;78;NISSAN;SUV;red
+19907/205353;139;Mercedes-Benz;SUV;white
+07650/078908;114;Honda;SUV;gray
+20305/209151;79;Volkswagen;sedan;black
+16441/169775;110;BMW;sedan;gray
+06667/069238;61;Buick;sedan;white
+20506/211176;75;Buick;sedan;red
+22489/231729;169;Skoda;sedan;black
+11570/119458;139;Ford;SUV;white
+39409/402905;14;Jaguar;sedan;black
+31805/325851;110;Buick;business purpose vehicle/MPV;gray
+31765/325470;110;NISSAN;sedan;gray
+17159/176749;102;Wuling;minivan;white
+05980/062213;139;Honda;sedan;red
+37652/385288;114;Haima;sedan;white
+38346/392620;14;BYD;sedan;black
+21601/222798;110;Southeast Motor;SUV;white
+05258/054599;106;Volkswagen;sedan;gray
+29398/302438;110;Toyota;sedan;black
+06461/066930;78;Toyota;sedan;black
+40355/412892;110;Ford;SUV;black
+03448/035109;163;Volkswagen;sedan;dark gray
+00145/001494;14;Jinbei;light passenger vehicle;black
+33490/342029;166;Volkswagen;sedan;white
+02084/021218;139;Lexus ;sedan;white
+28479/292847;152;Ford;sedan;red
+06080/062972;53;Modern;sedan;white
+18001/185590;14;Changan;minivan;gray
+31471/322750;110;JAC;light passenger vehicle;gray
+23972/246962;110;NISSAN;sedan;black
+04335/044473;139;Bao Jun;sedan;white
+25993/267884;94;Ford;sedan;black
+16704/172436;14;Toyota;sedan;white
+10034/103419;3;Chevrolet;sedan;black
+25049/258027;51;Volkswagen;sedan;red
+15851/163561;139;Mercedes-Benz;business purpose vehicle/MPV;black
+19160/197701;51;Volkswagen;sedan;white
+32559/333135;34;Volkswagen;sedan;white
+02865/029076;20;Yutong;large-sized bus;red
+31838/326124;51;Bao Jun;SUV;white
+40370/413082;86;NISSAN;sedan;dark gray
+32031/328049;41;Minitruck; small-sized truck;gray
+29170/299933;106;Skoda;SUV;white
+14492/149590;102;Volkswagen;sedan;white
+17022/175337;139;Buick;sedan;black
+34577/353378;106;Modern;sedan;white
+12977/134107;110;Audi;sedan;dark gray
+31337/321594;170;KIA;sedan;black
+15454/159173;41;Volkswagen;SUV;gray
+05870/061007;122;Wuling;minivan;blue
+36934/377610;41;Iveco;light passenger vehicle;white
+24077/248149;110;Volkswagen;sedan;black
+24877/256182;110;Modern;sedan;white
+22292/229805;110;Volkswagen;sedan;black
+03797/038906;41;Ford;sedan;white
+02035/020794;22;Buick;business purpose vehicle/MPV;gray
+21937/226036;78;Bao Jun;business purpose vehicle/MPV;white
+40447/413780;78;Buick;business purpose vehicle/MPV;black
+29104/299363;14;Mazda;sedan;white
+10969/113180;110;Mazda;sedan;white
+05411/056218;139;Chevrolet;sedan;red
+29964/307903;171;Volkswagen;sedan;gray
+17957/185095;139;Mazda;sedan;dark gray
+00055/000539;106;Volkswagen;SUV;white
+12798/132370;34;Bao Jun;sedan;white
+18748/193610;110;Hafei Auto;sedan;blue
+06578/068219;172;Volkswagen;sedan;black
+24091/248318;139;Volkswagen;sedan;dark gray
+11898/123073;86;Volkswagen;sedan;black
+32496/332554;102;GAC Motor;SUV;black
+15894/164106;110;Bao Jun;sedan;yellow
+39037/399272;14;Volkswagen;sedan;white
+02397/024349;166;Modern;SUV;black
+19494/201118;41;Changan;minivan;white
+39590/404603;22;Ford;sedan;black
+06872/071348;14;Buick;business purpose vehicle/MPV;white
+28414/292331;41;Mercedes-Benz;business purpose vehicle/MPV;gray
+00348/003629;110;Dongfeng Fengxing;business purpose vehicle/MPV;dark gray
+27006/278054;94;Volkswagen;sedan;black
+10690/110109;110;Volkswagen;sedan;white
+19867/205032;106;KIA;sedan;white
+00423/004398;122;Dongfeng scenery;minivan;white
+37506/383585;110;Volkswagen;sedan;cyan
+02981/030249;71;Jing long;large-sized bus;blue
+20114/207416;110;Volkswagen;sedan;black
+36239/370516;14;Volkswagen;sedan;white
+06107/063254;114;Toyota;SUV;dark gray
+15445/159090;51;Forland times; small-sized truck;gray
+32280/330408;139;Minitruck;sedan;gray
+06720/069937;137;Volkswagen;sedan;gray
+08553/088316;102;Cheryl;sedan;gray
+19812/204430;147;Ford;SUV;white
+05230/054338;14;Ford;sedan;red
+28169/289762;101;Changan;sedan;black
+29602/304308;139;Volkswagen;sedan;black
+21463/221294;41;Lexus ;SUV;white
+18380/189680;110;Wuling;light passenger vehicle;dark gray
+02291/023276;106;Buick;SUV;red
+16043/165686;172;Volkswagen;SUV;white
+05364/055722;67;Chevrolet;sedan;gray
+35812/366195;14;Geely;SUV;white
+35786/365943;74;Dongfeng Fengdu;SUV;white
+09808/101037;61;BMW;SUV;black
+01869/019370;86;Toyota;sedan;black
+10285/105977;41;Toyota;sedan;black
+04199/042985;110;KIA;sedan;white
+08180/084699;139;Subaru;sedan;black
+05904/061403;71;Ford;sedan;gray
+37751/386319;171;Modern;sedan;black
+10098/104091;15;Honda;SUV;gray
+34471/352221;170;Ford;sedan;black
+38170/390782;163;Volkswagen;sedan;black
+03049/030941;14;Chevrolet;sedan;red
+33756/344717;114;Volkswagen;sedan;red
+19172/197827;94;WAW Truck; small-sized truck;white
+25581/263631;89;Haima;business purpose vehicle/MPV;green
+24301/250418;139;Lincoln;SUV;white
+03301/033490;136;Geely;sedan;gray
+07130/073963;161;Modern;sedan;white
+12013/124185;41;Suzuki;sedan;red
+29810/306294;110;Volkswagen;sedan;yellow
+19109/197235;78;Volkswagen;SUV;white
+03970/040622;51;Land Rover;SUV;white
+32744/334880;110;Hafei Auto; small-sized truck;gray
+13637/140856;41;Great Wall;sedan;black
+38291/392112;51;Volkswagen;business purpose vehicle/MPV;white
+06057/062781;61;NISSAN;SUV;gray
+30502/313380;106;Volkswagen;SUV;white
+15817/163169;111;Modern;sedan;white
+10472/107941;74;Audi;sedan;black
+04418/045290;170;Geely;SUV;blue
+26022/268222;3;Toyota;SUV;white
+24028/247494;137;Honda;business purpose vehicle/MPV;white
+12141/125581;14;SUNWIN;large-sized bus;green
+31226/320500;110;Infiniti;sedan;white
+12812/132514;106;NISSAN;sedan;white
+39513/403865;139;Audi;sedan;black
+16626/171687;34;Ford;sedan;white
+11186/115290;139;BMW;SUV;white
+39520/403924;94;Mercedes-Benz;sedan;black
+03809/038993;110;MG;sedan;white
+32945/336729;94;NISSAN;sedan;blue
+34443/351959;114;Volkswagen;sedan;black
+38348/392648;61;BMW;sedan;gray
+36746/375584;14;KIA;sedan;black
+00414/004301;61;Buick;SUV;brown
+12846/132859;166;Geely;sedan;white
+33222/339380;157;Bao Jun;SUV;white
+33207/339230;139;Volkswagen;sedan;dark gray
+03207/032577;110;Toyota;SUV;black
+18592/191948;78;BYD;sedan;black
+01358/014148;152;Modern;sedan;gray
+37605/384704;114;KIA;sedan;white
+13022/134584;61;Honda;sedan;black
+34300/350473;34;Honda;business purpose vehicle/MPV;black
+05304/055129;43;FAW;sedan;gray
+30882/317407;170;Changan;sedan;purple
+25806/266040;13;Land Rover;SUV;black
+25733/265228;75;Ford;sedan;black
+09679/099615;158;Volkswagen;sedan;black
+39941/408356;106;Volkswagen;sedan;gray
+21747/224219;110;Audi;sedan;black
+29081/299138;78;Honda;business purpose vehicle/MPV;black
+31714/325055;34;Changan;SUV;white
+24030/247520;79;Jeep;SUV;black
+15651/161480;22;NISSAN;sedan;black
+06204/064296;110;KIA;sedan;dark gray
+38703/396167;133;Volkswagen;sedan;black
+14614/150621;169;Changan;sedan;dark gray
+01432/014924;123;Volkswagen;sedan;blue
+21356/220109;51;Buick;sedan;black
+26186/269733;41;Volkswagen;SUV;black
+11846/122553;139;JAC;light passenger vehicle;black
+07113/073821;110;Toyota;SUV;white
+16346/168713;61;FAW;minivan;dark gray
+27076/278650;169;Modern;sedan;black
+29623/304523;122;Changan;SUV;white
+02292/023289;114;Changan;sedan;white
+11294/116509;51; Citroen;sedan;red
+00010/000084;114;KIA;sedan;black
+15830/163297;15;Chevrolet;sedan;blue
+37583/384485;139;Buick;sedan;gray
+37224/380629;94;Ford;sedan;white
+35004/358077;110;Buick;business purpose vehicle/MPV;dark gray
+05057/052450;114;Honda;business purpose vehicle/MPV;white
+38088/389879;110;Skoda;sedan;white
+36657/374750;139;Volkswagen;sedan;white
+40228/411611;36;Buick;business purpose vehicle/MPV;gray
+10108/104153;14;BYD;sedan;black
+31790/325705;139;Mercedes-Benz;sedan;black
+05937/061771;49;Wuling;minivan;gray
+34260/350080;51;Honda;sedan;white
+04721/048568;14;Volkswagen;sedan;black
+38010/389167;53;Bestune;sedan;gray
+38201/391139;110;Volkswagen;SUV;white
+05540/057598;166;Volkswagen;sedan;black
+18575/191719;102;NISSAN;sedan;black
+32152/329208;61;Honda;sedan;black
+39001/398943;110;KIA;sedan;white
+18743/193575;7;Bao Jun;SUV;white
+25469/262511;139;Chevrolet;sedan;white
+03862/039532;167;Changan; small-sized truck;gray
+16576/171197;36;BYD;sedan;black
+16404/169299;110;Buick;business purpose vehicle/MPV;gray
+21004/216322;41;BMW;sedan;black
+38142/390428;102;Ford;sedan;black
+00558/005810;78;Changan;minivan;gray
+31674/324728;61;LUXGEN;SUV;red
+33327/340368;166;KIA;sedan;white
+36477/373050;79;Volkswagen;sedan;black
+26319/271088;13;Volkswagen;sedan;black
+14346/148071;110;Wuling;minivan;gray
+30064/308843;147;Wuling;minivan;gray
+36710/375281;61;Audi;sedan;black
+37407/382516;139;Volkswagen;sedan;black
+07326/075920;170;NISSAN;sedan;black
+37468/383152;78;Mitsubishi;SUV;black
+15805/163048;14;Buick;sedan;red
+05646/058681;156;Volkswagen;sedan;white
+38242/391482;156;Buick;SUV;white
+30236/310514;41;Chevrolet;sedan;white
+13331/137506;106;Honda;sedan;black
+09041/093161;170;Truck;HGV/large truck;white
+02220/022610;172;Chevrolet;sedan;gray
+16870/173939;14;BYD;sedan;white
+18076/186292;114;Suzuki;sedan;white
+17210/177322;163;Chevrolet;sedan;red
+23037/237815;110;Modern;sedan;gray
+07420/076739;79;Honda;SUV;white
+10047/103574;139;Changan;SUV;red
+33492/342051;172;Volkswagen;sedan;green
+05837/060699;114;KIA;business purpose vehicle/MPV;black
+26847/276498;106;Toyota;SUV;black
+12349/127811;94;Buick;sedan;dark gray
+33817/345422;41;Buick;sedan;dark gray
+25785/265870;170;Toyota;SUV;black
+22561/232459;86;Buick;sedan;brown
+39164/400479;41;Volkswagen;sedan;black
+35300/360959;14;Buick;sedan;gray
+14053/144886;77;Modern;SUV;white
+08172/084628;22;Dongfeng Fengshen;sedan;black
+27354/281344;94;Wuling;minivan;gray
+14479/149473;166;Zotye;SUV;white
+04528/046618;172;Suzuki;SUV;white
+02724/027588;169;KIA;sedan;gray
+02766/028008;110;Lincoln;SUV;gray
+16174/167037;110;Mercedes-Benz;SUV;black
+29376/302238;102;Land Rover;SUV;white
+03992/040808;114;Changan;minivan;gray
+08630/089146;7;Harvard;SUV;black
+16213/167351;61;Modern;sedan;white
+16916/174374;102;Wuling;minivan;gray
+24832/255769;41;Volkswagen;sedan;black
+05402/056089;90;Audi;SUV;black
+21586/222644;142;Honda;sedan;white
+26415/272128;170;Suzuki;sedan;red
+27237/280208;7;Geely;SUV;white
+36744/375564;110;Mercedes-Benz;sedan;black
+16057/165909;111;Ford;SUV;white
+13888/143141;14;Subaru;SUV;white
+03688/037738;114;Ford;sedan;white
+19090/197058;41;Buick;SUV;red
+21638/223144;152;Venucia;SUV;white
+16687/172304;41;Foton;HGV/large truck;red
+32158/329257;74;Modern;SUV;black
+38679/395944;139;KIA;SUV;black
+34942/357348;26;Old Scooter;large-sized bus;blue
+27221/280061;67;Changan;minivan;gray
+22805/235291;34;Volkswagen;sedan;black
+25762/265592;51;BYD;sedan;dark gray
+24513/252681;110;Ford;SUV;white
+30370/312017;58;Volkswagen;sedan;black
+33299/340111;139;Toyota;business purpose vehicle/MPV;black
+33620/343423;51;FAW;sedan;gray
+28566/293691;41;Mercedes-Benz;sedan;black
+14174/146403;94;BYD;SUV;white
+09877/101810;79;Buick;business purpose vehicle/MPV;white
+06979/072425;41;Buick;SUV;white
+12525/129450;114;Toyota;SUV;black
+06332/065559;139;Harvard;SUV;white
+39714/405874;23;Chevrolet;sedan;gray
+04906/050594;110;Volkswagen;sedan;red
+23078/238292;41;Peugeot;sedan;white
+33252/339652;111;BMW;sedan;white
+27915/287001;94;Buick;sedan;red
+21630/223050;139;Toyota;sedan;white
+22740/234599;60;Harvard;SUV;white
+13682/141260;110;Buick;business purpose vehicle/MPV;gray
+12567/129941;94;Skoda;sedan;white
+16004/165282;22;Honda;SUV;black
+19664/202961;14;Volkswagen;sedan;black
+14564/150225;41;Audi;SUV;white
+23163/239040;163;Great Wall;sedan;gray
+38280/391968;94;Buick;business purpose vehicle/MPV;dark gray
+17430/179764;61;Audi;SUV;black
+32635/333849;74;Toyota;sedan;white
+13205/136435;51;Audi;sedan;black
+21980/226635;51;Wuling;minivan;white
+19902/205300;152;Buick;business purpose vehicle/MPV;gray
+11732/121299;41;Ford;SUV;red
+09633/099181;102;NISSAN;sedan;black
+06750/070276;41;Volkswagen;sedan;black
+10372/106885;14;Subaru;SUV;white
+21671/223464;106;Honda;SUV;gray
+03835/039275;14;BMW;sedan;gray
+31866/326347;78;Buick;sedan;gray
+40154/410862;139;FAW;sedan;black
+25949/267487;94;NISSAN;business purpose vehicle/MPV;dark gray
+14320/147864;41;Dongfeng; small-sized truck;gray
+00631/006640;61;NISSAN;sedan;black
+10710/110325;34;Buick;sedan;black
+15067/155319;170;Buick;sedan;white
+23109/238560;94;NISSAN;sedan;white
+35432/362267;110;Mercedes-Benz;sedan;black
+07794/080419;156;Southeast Motor;sedan;black
+38367/392883;101;Roewe;sedan;gray
+11079/114213;110;Honda;business purpose vehicle/MPV;white
+40404/413440;94; Citroen;SUV;white
+14602/150538;166;Buick;sedan;black
+12298/127250;114;Buick;sedan;black
+31909/326760;78;Mercedes-Benz;SUV;white
+15503/159735;94;Geely;sedan;black
+05707/059400;14;Yutong;large-sized bus;black
+21629/223049;102;Wuling;minivan;white
+13438/138628;110;Cowin;sedan;black
+27474/282565;94;Audi;sedan;black
+22395/230832;170;Skoda;sedan;gray
+38190/390990;81;BMW;SUV;white
+34945/357393;67;Dongfeng Xiaokang;minivan;gray
+28160/289629;79;Toyota;sedan;white
+34269/350165;170;Toyota;sedan;red
+18765/193764;106;Peugeot;sedan;white
+30825/316729;110;Land Rover;SUV;black
+25093/258589;81;Old Scooter;large-sized bus;blue
+19727/203694;146;KIA;sedan;white
+27983/287741;53;Mitsubishi;SUV;white
+22753/234753;41;Volkswagen;sedan;black
+03345/034092;170;Modern;SUV;red
+08729/090139;152;Changan;SUV;white
+26178/269653;171;Volkswagen;sedan;black
+38898/398073;139;Buick;sedan;black
+11492/118618;104;Jing long;large-sized bus;blue
+21057/217002;41;Bao Jun;business purpose vehicle/MPV;gray
+06917/071741;81;Old Scooter;large-sized bus;blue
+24660/254059;78;Volkswagen;sedan;black
+29056/298890;14;Skoda;sedan;black
+36315/371199;114;Forland times;HGV/large truck;white
+02232/022697;170;Honda;SUV;black
+27796/285784;14;Modern;sedan;dark gray
+25063/258236;18;Mercedes-Benz;sedan;white
+37259/380988;139;Modern;SUV;white
+31446/322519;110;NISSAN;sedan;black
+21391/220485;78;Zotye;sedan;blue
+04196/042941;101;Toyota;sedan;white
+08862/091419;106;Volkswagen;sedan;black
+11164/115038;102;Modern;sedan;white
+29682/305004;171;Volkswagen;sedan;white
+26291/270810;171;Audi;sedan;black
+18876/194835;86;Volkswagen;sedan;dark gray
+36523/373478;41;Volkswagen;sedan;black
+33111/338378;111;Lexus ;sedan;black
+18945/195528;102;Chevrolet;sedan;red
+19693/203320;14;Bestune;sedan;white
+34956/357555;170;Volkswagen;sedan;black
+21546/222223;78;Volkswagen;sedan;black
+36868/376914;51;Cheryl;sedan;white
+24376/251172;172;Buick;business purpose vehicle/MPV;dark gray
+06523/067584;129;Forland times; small-sized truck;white
+13781/142032;139;Buick;business purpose vehicle/MPV;black
+31325/321509;51; Citroen;sedan;white
+36586/374127;114;Volkswagen;sedan;black
+12452/128759;106;Peugeot;sedan;gray
+01495/015532;169;Geely;sedan;white
+32800/335458;94;Changan;SUV;white
+15331/157786;106;Roewe;sedan;white
+26468/272748;170;Honda;sedan;black
+19165/197746;171;Buick;business purpose vehicle/MPV;gray
+10136/104410;170;Mazda;sedan;gray
+29199/300284;34;Volkswagen;sedan;white
+32685/334260;14;Buick;sedan;white
+03333/033932;74;Volkswagen;sedan;black
+39910/408109;139;Skoda;sedan;white
+33270/339766;51;Dongfeng Xiaokang;minivan;gray
+33602/343213;170;GAC Motor;SUV;white
+37384/382261;41;Honda;sedan;white
+16519/170525;51;Roewe;sedan;gray

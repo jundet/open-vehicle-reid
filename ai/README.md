@@ -17,6 +17,10 @@ password = "password"
 database = "database"
 ```
 
+## datasets
+
+VERI-Wild：为简化车辆信息的读取，车辆信息与编号已经拼接并另存为X_info.txt
+
 ## deep-person-reid
 
 
@@ -34,3 +38,6 @@ To use multiple GPUs, you can set `--gpu-devices 0,1,2,3`.
 To resume training, you can use `--resume path/to/.pth.tar` to load a checkpoint from which saved model weights and `start_epoch` will be used. Learning rate needs to be initialized carefully. If you just wanna load a pretrained model by discarding layers that do not match in size (e.g. classification layer), use '--load-weights path/to/.pth.tar' instead.
 
 Please refer to the code for more details.
+
+# 
+
