@@ -3,7 +3,7 @@ Vehicle/Person Re-identification
 
 车辆/行人重识别在线显示系统。
 
-基础架构基于angular7、NG-ZORRO、Ng-Alain编写而成。
+基础架构基于angular、NG-ZORRO、Ng-Alain编写而成。
 
 初始化需指定 src/environments/ SERVER_URL
 
@@ -19,7 +19,7 @@ src/app/shared/api.ts
 
 运行结果图
 
-![](./readme/1.png)
-![](./readme/2.png)
-![](./readme/3.png)
+![](readme/1.png)
+![](readme/2.png)
+![](readme/3.png)
 
