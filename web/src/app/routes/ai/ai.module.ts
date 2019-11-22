@@ -5,7 +5,6 @@ import { AiExperimentModelComponent } from './experiment/model/model.component';
 import { AiExperimentConvComponent } from './experiment/conv/conv.component';
 import { AiModelTestComponent } from './experiment/model/test/test.component';
 import { AiModelTrainingComponent } from './experiment/model/training/training.component';
-import { TrainRendererComponent } from './experiment/model/trainRenderer.component';
 
 import { ViserModule } from 'viser-ng'; // G2
 import { NgxEchartsModule } from 'ngx-echarts'; // echarts
@@ -18,8 +17,7 @@ const COMPONENTS = [
 ];
 const COMPONENTS_NOROUNT = [
   AiModelTestComponent,
-  AiModelTrainingComponent,
-  TrainRendererComponent];
+  AiModelTrainingComponent];
 
 @NgModule({
   imports: [
@@ -27,7 +25,7 @@ const COMPONENTS_NOROUNT = [
     HighlightJsModule,
     NgxEchartsModule,
     SharedModule,
-    AgGridModule.withComponents([TrainRendererComponent]),
+    AgGridModule.withComponents([]),
     AiRoutingModule
   ],
   declarations: [

@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild, ChangeDetectorRef} from '@angular/core';
+import { Component, OnInit,  AfterViewInit, OnDestroy, ViewChild, ChangeDetectorRef} from '@angular/core';
 import { _HttpClient, ModalHelper } from '@delon/theme';
 import { tap, map } from 'rxjs/operators';
 import { STColumn, STComponent } from '@delon/abc';
@@ -8,16 +8,14 @@ import { APICFG } from '@shared';
 import { AiModelTestComponent } from './test/test.component';
 import { AiModelTrainingComponent } from './training/training.component';
 import { NzModalService, NzMessageService } from 'ng-zorro-antd';
-import {TrainRendererComponent} from './trainRenderer.component';
+import { Subject } from 'rxjs';
 
 @Component({
   selector: 'app-ai-experiment-model',
   templateUrl: './model.component.html',
 })
-export class AiExperimentModelComponent implements OnInit {
-  frameworkComponents: {
-    trainRenderer: TrainRendererComponent;
-  };
+export class AiExperimentModelComponent implements OnInit, AfterViewInit, OnDestroy {
+  private destroy$ = new Subject();
   constructor(
     private http: _HttpClient,
     private modal: ModalHelper,
@@ -29,31 +27,6 @@ export class AiExperimentModelComponent implements OnInit {
   isVisible = false;
   userid = this.appSettings.user.id;
   height = document.body.offsetHeight - 180;
-  scroll = "{x: '1500px', y: '" + this.height + "px'}";
-  columnDefs = [
-    {headerName: '编号', field: 'id', width: 100, fixed: 'left',sortable: true},
-    {headerName: '模型名称', field: 'model', width: 150, sortable: true},
-    {headerName: '数据集', field: 'data', width: 100, sortable: true},
-    {headerName: 'Rank1', field: 'rank1', width: 150, sortable: true},
-    {headerName: '训练过程', field: 'data', width: 100, sortable: true,
-    cellRenderer: 'trainRenderer'},
-    {headerName: '测试详情', field: 'data', width: 100, sortable: true,
-    cellRenderer: function(params) { return '<a (click)="this.action(1);">查看</a>'; }},
-    {headerName: '学习率', field: 'learnrate', width: 100, sortable: true},
-    {headerName: '递减步数', field: 'stepsize', width: 100, sortable: true},
-    {headerName: '递减率', field: 'gamma', width: 100, sortable: true},
-    {headerName: '损失函数', field: 'loss', width: 100, sortable: true},
-    {headerName: '图片高度', field: 'height', width: 100, sortable: true},
-    {headerName: '图片宽度', field: 'width', width: 100, sortable: true},
-    {headerName: '序列长度', field: 'seqlen', width: 100, sortable: true},
-    {headerName: 'Batch', field: 'batch', width: 100, sortable: true},
-    {headerName: '备注', field: 'other', width: 100, sortable: true},
-    {headerName: '时间', field: 'time', width: 100, sortable: true, cellRenderer:  function(params) {const date = new Date(parseInt(params.value)); return date.getFullYear() + '-' + (date.getMonth()+1) + "-" + date.getDate() + " "
-    + date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds(); }},
-    {headerName: '操作', field: 'data', width: 100, sortable: true, cellRenderer: function(params) { return '<a onclick="this.action(1);">删除</a>'; }}
-];
-  
-  rowData: any;
   q: any = {
     modelName: '',
     dataset: 'all',
@@ -73,7 +46,6 @@ export class AiExperimentModelComponent implements OnInit {
     { index: 3, text: 'PRID2011', value: 'prid', checked: false },
   ];
   modelName: any;
-
   @ViewChild('st') st: STComponent;
   columns: STColumn[] = [
     {
@@ -143,6 +115,13 @@ export class AiExperimentModelComponent implements OnInit {
   ngOnInit() {
     this.getData();
   }
+  ngAfterViewInit(): void {
+  }
+
+  ngOnDestroy(): void {
+    this.destroy$.next();
+    this.destroy$.complete();
+  }
   getData() {
     this.loading = true;
     const modelUrl = APICFG.MLMODEL;
@@ -155,7 +134,6 @@ export class AiExperimentModelComponent implements OnInit {
           return;
         }
         this.models = res.data;
-        this.rowData = res.data;
         this.cdr.detectChanges();
       });
   }
@@ -193,7 +171,7 @@ export class AiExperimentModelComponent implements OnInit {
       userId: this.userid
     };
     this.modalService.confirm({
-      nzTitle: '确定删除{{model.model}}?',
+      nzTitle: '确定删除' + model.model + '?',
       nzContent:
         '<b style="color: red;">将删除该次实验的所有数据，包括训练数据和测试数据。数据不可恢复！</b>',
       nzOkText: '确定',

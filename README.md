@@ -3,7 +3,7 @@ Vehicle Re-identification, Vehicle classification, Person Re-identification
 
 车辆/行人重识别模型训练系统
 
-![](img/1.png)
+![](readme/1.png)
 
 ## reid
 
