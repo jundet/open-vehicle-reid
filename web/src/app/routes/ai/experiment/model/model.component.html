@@ -27,16 +27,7 @@
       </nz-col>
     </nz-row>
   </form>
-  <st #st [bordered]="true" [data]="models" [columns]="columns" [scroll]= "scroll"
+  <st #st [bordered]="true" [data]="models" [columns]="columns"  [scroll]="{x: '1000px'}"
     [loading]="loading"></st>
-
-  <!-- <ag-grid-angular
-  style="width: 1300px; height: 500px;" 
-  class="ag-theme-material"
-  [rowData]="rowData" 
-  [columnDefs]="columnDefs"
-  [frameworkComponents]="frameworkComponents"
-  >
-  </ag-grid-angular> -->
 </nz-card>
 

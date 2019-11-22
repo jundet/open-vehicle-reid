@@ -468,4 +468,28 @@ export const MODELS = {
       "data": []
     }
   },
+  'GET /mlmenu': (req: MockRequest) => {
+    const data = req.body;
+    return { "code": 200, "message": "success", "data": [
+      {
+        "text": "实验平台",
+        "group": true,
+        "hideInBreadcrumb": true,
+        "children": [
+          {
+            "text": "实验",
+            "icon": "anticon anticon-dashboard",
+            "children": [{
+              "text": "模型",
+              "link": "/ai/model"
+            },
+              {
+                "text": "卷积计算",
+                "link": "/ai/conv"
+              }
+            ]
+          }
+        ]
+      }] }
+  },
 };

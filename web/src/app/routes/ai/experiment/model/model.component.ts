@@ -31,7 +31,7 @@ export class AiExperimentModelComponent implements OnInit {
   height = document.body.offsetHeight - 180;
   scroll = "{x: '1500px', y: '" + this.height + "px'}";
   columnDefs = [
-    {headerName: '编号', field: 'id', width: 100, sortable: true},
+    {headerName: '编号', field: 'id', width: 100, fixed: 'left',sortable: true},
     {headerName: '模型名称', field: 'model', width: 150, sortable: true},
     {headerName: '数据集', field: 'data', width: 100, sortable: true},
     {headerName: 'Rank1', field: 'rank1', width: 150, sortable: true},
