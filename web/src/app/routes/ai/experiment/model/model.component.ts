@@ -52,7 +52,7 @@ export class AiExperimentModelComponent implements OnInit, AfterViewInit, OnDest
       title: '编号',
       width: '100px',
       index: 'id',
-      fixed: 'left',
+
       sorter: (a: any, b: any) => a.id - b.id,
     },
     {
@@ -69,7 +69,7 @@ export class AiExperimentModelComponent implements OnInit, AfterViewInit, OnDest
     },
     {
       title: 'Rank1',
-      width: '80px',
+      width: '100px',
       index: 'rank1',
       sorter: (a: any, b: any) => a.rank1 - b.rank1,
     },

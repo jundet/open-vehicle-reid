@@ -4,8 +4,7 @@ import { tap, map } from 'rxjs/operators';
 import { _HttpClient } from '@delon/theme';
 import { APICFG } from '@shared';
 import { STColumn, STPage } from '@delon/abc';
-import * as echarts from 'echarts';
-import { Type } from '@angular/compiler';
+
 
 const DataSet = require('@antv/data-set');
 
